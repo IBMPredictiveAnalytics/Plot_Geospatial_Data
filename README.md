@@ -14,6 +14,8 @@ License
 MIT
 
 
+# Contributors
 
-[Armand Ruiz]:http://blog.armandruiz.com
+  - Armand Ruiz ([armand_ruiz](https://twitter.com/armand_ruiz))
+
 
