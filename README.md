@@ -11,7 +11,7 @@ This IBM SPSS Modeler output node allows you to plot data containing latitude an
 License
 ----
 
-[Apache 2.0][3]
+[Apache 2.0][1]
 
 
 Contributors
