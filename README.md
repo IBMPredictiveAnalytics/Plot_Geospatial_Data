@@ -2,11 +2,9 @@
 
 This IBM SPSS Modeler output node allows you to plot data containing latitude and longitude on an interactive map. You can use the same color for all points or use a legend column to specify a color code. This legend may be categorical or continuous. Several color palettes are available (sequential, divergent, qualitative or monochrome) covering all possible use of the node.
 
-<div id="container">
-    <img />
-    This is an image
-</div>
-![Map](https://github.com/aruizga7/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration8.PNG?raw=true)
+<img align="center" src="https://github.com/aruizga7/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration8.PNG?raw=trueg" alt="map stream">
+
+
 ![Map](https://github.com/aruizga7/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration2.png?raw=true)
 
 More precisely, this node generates an HTML file which can be saved to a specific directory and/or opened in the default browser on execution. This html page is an interactive map, that is to say you can move, zoom in and out, etc.
