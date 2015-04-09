@@ -1,0 +1,503 @@
+Address (block of),Locatison,Neighborhood,Gender,Cause,Story url,Location,age,Latitude,Longitude
+100 N. Green St.,Sidewalk,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/murder-charges-new-years-day-chicago-near-west-side.html,100 N. Green St. Chicago,47,41.883,-87.649
+11300 S. Racine Ave.,Alley,Morgan Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/man-shot-in-vehicle-on-far-south-side.html,11300 S. Racine Ave. Chicago,34,41.688,-87.652
+2100 E. 68th St.,Street,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/man-found-shot-to-death-in-vehicle.html,2100 E. 68th St. Chicago,40,41.772,-87.574
+9200 S. Dobson Ave.,,Burnside,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/man-shot-dead-south-side.html,9200 S. Dobson Ave. Chicago,20,41.727,-87.599
+5900 S. Springfield Ave.,Sidewalk,West Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/man-shot-dead-on-south-side-1.html,5900 S. Springfield Ave. Chicago,18,41.786,-87.721
+5000 S. Wabash Ave.,Street,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/shooting-south-side-homicide-bronzeville.html,5000 S. Wabash Ave. Chicago,28,41.804,-87.624
+8900 S. Halsted St.,Street,Washington Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/man-found-fatally-shot-in-trunk-of-vehicle.html,8900 S. Halsted St. Chicago,34,41.732,-87.644
+6500 S. Western Ave.,Street,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/south-side-shooting-homicide.html,6500 S. Western Ave. Chicago,21,41.775,-87.684
+6200 S. Sacramento Ave.,Apartment,Chicago Lawn,Male,Stabbing,http://www.chicagobreakingnews.com/2009/01/rodney-bryant-greg-stabbed-sacramento.html,6200 S. Sacramento Ave. Chicago,19,41.781,-87.699
+4600 S. Drake Ave.,Street,Brighton Park,Female,Strangling,http://www.chicagobreakingnews.com/2009/01/womans-body-found-on-southwest-side.html,4600 S. Drake Ave. Chicago,29,41.810,-87.712
+3700 W. Lexington St.,Residence,East Garfield Park,Male,Stabbing,http://www.chicagobreakingnews.com/2009/01/man-fatally-stabbed-in-west-garfield-park.html,3700 W. Lexington St. Chicago,54,41.872,-87.718
+0 W. 15th St.,Residence,Near South Side,Female,Gunshot,http://www.chicagobreakingnews.com/2009/01/woman-infant-found-slain-on-south-side.html,0 W. 15th St. Chicago,24,41.862,-87.627
+0 W. 15th St.,Residence,Near South Side,Female,Gunshot,http://www.chicagobreakingnews.com/2009/01/woman-infant-found-slain-on-south-side.html,0 W. 15th St. Chicago,$null$,41.862,-87.627
+1100 W. 122nd St.,School,West Pullman,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/police-alerts-ask-for-public-help.html,1100 W. 122nd St. Chicago,33,41.672,-87.649
+2000 W. 70th Pl.,Residence,West Englewood,Male,Stabbing,http://www.chicagobreakingnews.com/2009/01/man-charged-in-brothers-killing.html,2000 W. 70th Pl. Chicago,35,41.766,-87.674
+1600 S. Loomis St.,Residential yard,Lower West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/man-found-fatally-shot-in-pilsen-alley.html,1600 S. Loomis St. Chicago,43,41.860,-87.662
+8100 S. Houston Ave.,Alley,South Chicago,Male,Gunshot,,8100 S. Houston Ave. Chicago,47,41.748,-87.551
+6800 S. Indiana Ave.,Apartment,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/2-found-slain-in-south-side-apartment.html,6800 S. Indiana Ave. Chicago,36,41.771,-87.621
+6800 S. Indiana Ave.,Apartment,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/2-found-slain-in-south-side-apartment.html,6800 S. Indiana Ave. Chicago,51,41.771,-87.621
+12200 S. State St.,Residence,West Pullman,Male,Stabbing,http://www.chicagobreakingnews.com/2009/02/1m-bail-in-west-pullman-slaying.html,12200 S. State St. Chicago,61,41.672,-87.623
+1400 W. Lake St.,Bar or tavern,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/3-wounded-on-near-west-side-street.html,1400 W. Lake St. Chicago,28,41.885,-87.662
+8100 S. Eberhart Ave.,Sidewalk,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/01/man-killed-in-south-side-street-robbery.html,8100 S. Eberhart Ave. Chicago,55,41.747,-87.613
+3900 W. Argyle St.,Apartment,Albany Park,Female,Arson,http://www.chicagobreakingnews.com/2009/03/2nd-suspect-in-fatal-arson-released.html,3900 W. Argyle St. Chicago,7,41.972,-87.726
+3900 W. Argyle St.,Apartment,Albany Park,Female,Arson,http://www.chicagobreakingnews.com/2009/03/2nd-suspect-in-fatal-arson-released.html,3900 W. Argyle St. Chicago,23,41.972,-87.726
+8100 S. Drexel Ave.,Sidewalk,Chatham,Male,Stabbing,http://www.chicagobreakingnews.com/2009/02/4-women-charged-in-stabbing-slaying.html,8100 S. Drexel Ave. Chicago,30,41.747,-87.603
+10300 S. Doty Ave.,Other,South Deering,Male,Gunshot,,10300 S. Doty Ave. Chicago,50,41.704,-87.588
+6200 S. Laflin St.,Street,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/man-fatally-shot-in-west-englewood-cops-say.html,6200 S. Laflin St. Chicago,48,41.781,-87.662
+7200 S. Racine Ave.,Sidewalk,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/georgia-man-slain-in-englewood-officials-say.html,7200 S. Racine Ave. Chicago,24,41.763,-87.654
+5900 S. Campbell Ave.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/teen-shot-marquette-park-campbell.html,5900 S. Campbell Ave. Chicago,16,41.786,-87.686
+5200 W. Lake St.,Car wash,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/man-charged-in-double-homicide-at-carwash.html,5200 W. Lake St. Chicago,28,41.887,-87.756
+5200 W. Lake St.,Car wash,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/man-charged-in-double-homicide-at-carwash.html,5200 W. Lake St. Chicago,34,41.887,-87.756
+2400 W. Adams St.,Porch/hallway,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/2-slain-in-separate-west-side-shootings.html,2400 W. Adams St. Chicago,22,41.879,-87.686
+7500 S. Wabash Ave.,Street,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/man-slain-in-south-side-shooting.html,7500 S. Wabash Ave. Chicago,19,41.758,-87.623
+1900 S. Loomis St.,Sidewalk,Lower West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/2-slain-in-separate-west-side-shootings.html,1900 S. Loomis St. Chicago,16,41.856,-87.662
+1500 S. Avers Ave.,Apartment,North Lawndale,Male,Stabbing,http://www.chicagobreakingnews.com/2009/02/3-chicagoans-slain-in-sunday-attacks.html,1500 S. Avers Ave. Chicago,23,41.861,-87.722
+7800 S. Western Ave.,Not available,Ashburn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/3-chicagoans-slain-in-sunday-attacks.html,7800 S. Western Ave. Chicago,21,41.752,-87.683
+2900 W. 63rd St.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/3-chicagoans-slain-in-sunday-attacks.html,2900 W. 63rd St. Chicago,33,41.779,-87.696
+7200 S. Calumet Ave.,Alley,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/man-found-slain-in-south-side-alley.html,7200 S. Calumet Ave. Chicago,30,41.764,-87.617
+1500 W. 58th St.,Vacant property,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/teen-found-shot-in-vacant-lot.html,1500 W. 58th St. Chicago,18,41.789,-87.662
+2500 W. 42nd St.,Street,Brighton Park,Female,Gunshot,http://www.chicagobreakingnews.com/2009/02/girl-16-shot-in-van-dies.html,2500 W. 42nd St. Chicago,16,41.817,-87.687
+8700 S. Exchange Ave.,Street,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/family-friends-mourn-shooting-victims.html,8700 S. Exchange Ave. Chicago,13,41.737,-87.553
+8700 S. Exchange Ave.,Street,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/family-friends-mourn-shooting-victims.html,8700 S. Exchange Ave. Chicago,17,41.737,-87.553
+8700 S. Exchange Ave.,Street,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/family-friends-mourn-shooting-victims.html,8700 S. Exchange Ave. Chicago,15,41.737,-87.553
+1300 S. Loomis St.,CHA parking lot,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/1-dead-2-critical-in-west-side-shootings.html,1300 S. Loomis St. Chicago,28,41.865,-87.662
+7000 S. Wolcott Ave.,,West Englewood,Male,Trauma,http://www.nbcchicago.com/news/local-beat/five-month-old-death-022609.html,7000 S. Wolcott Ave. Chicago,$null$,41.767,-87.671
+800 N. Laramie Ave.,Street,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/driver-shot-killed-on-west-side.html,800 N. Laramie Ave. Chicago,34,41.895,-87.756
+100 N. Central Ave.,Alley,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/murder-charge-in-slaying-of-west-side-man.html,100 N. Central Ave. Chicago,21,41.882,-87.765
+5600 S. Laflin St.,Street,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/02/man-26-slain-in-englewood-shooting.html,5600 S. Laflin St. Chicago,26,41.792,-87.662
+2600 W. 25th St.,Alley,South Lawndale,Male,Strangling,http://www.chicagobreakingnews.com/2009/02/man-found-dead-was-strangled.html,2600 W. 25th St. Chicago,21,41.847,-87.691
+10500 S. Normal Ave.,Residence,Roseland,Male,Stabbing,http://www.chicagobreakingnews.com/2009/03/father-questioned-in-sons-stabbing-death.html,10500 S. Normal Ave. Chicago,47,41.703,-87.635
+5500 W. Monroe St.,Residential yard,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/man-slain-in-west-side-shooting-cops-say.html,5500 W. Monroe St. Chicago,36,41.880,-87.762
+3200 E. 92nd St.,Residence,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/male-slain-in-southeast-side-shooting.html,3200 E. 92nd St. Chicago,18,41.729,-87.547
+3100 N. Newcastle Ave.,Street,Montclare,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/man-fatally-shot-on-northwest-side.html,3100 N. Newcastle Ave. Chicago,37,41.936,-87.797
+500 N. Central Ave.,,Austin,Male,Stabbing,http://www.chicagobreakingnews.com/2009/03/austin-man-stabbed-to-death-officials-say.html,500 N. Central Ave. Chicago,22,41.889,-87.765
+11600 S. Church St.,Sidewalk,Morgan Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/1-man-killed-1-wounded-in-morgan-park.html,11600 S. Church St. Chicago,29,41.682,-87.671
+4900 N. Ridgeway Ave.,Sidewalk,Albany Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/albany-park-shot-ainslie.html,4900 N. Ridgeway Ave. Chicago,17,41.970,-87.722
+3200 W. Walnut St.,Porch/hallway,East Garfield Park,Male,Gunshot,,3200 W. Walnut St. Chicago,33,41.886,-87.706
+1100 W. 110th Pl.,Street,Morgan Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/male-shot-on-far-south-side.html,1100 W. 110th Pl. Chicago,14,41.693,-87.650
+5000 W. LeMoyne St.,Sidewalk,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/cicero-teen-dies-after-chicago-shooting.html,5000 W. LeMoyne St. Chicago,17,41.908,-87.751
+12200 S. Harvard Ave.,Residential yard,West Pullman,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/1-killed-1-injured-in-west-pullman-shooting.html,12200 S. Harvard Ave. Chicago,21,41.672,-87.631
+1500 E. 65th Pl.,Vacant property,Woodlawn,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/teen-charged-in-15-year-olds-slaying-last-spring-lee-ivory-miller-woodlawn-south-side.html,1500 E. 65th Pl. Chicago,15,41.776,-87.589
+1800 S. Millard Ave.,Sidewalk,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/man-shot-killed-in-lawndale.html,1800 S. Millard Ave. Chicago,59,41.857,-87.716
+1700 N. Karlov Ave.,Alley,Humboldt Park,Male,Stabbing,http://www.chicagobreakingnews.com/2009/03/another-shooting-reported-in-city.html,1700 N. Karlov Ave. Chicago,26,41.912,-87.729
+3200 S. Lawndale Ave.,Parking lot,South Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/2-shot-in-little-village.html,3200 S. Lawndale Ave. Chicago,31,41.835,-87.717
+900 E. 84th St.,,Chatham,Male,Stabbing,http://www.chicagobreakingnews.com/2009/03/man-killed-in-possible-domestic-dispute.html,900 E. 84th St. Chicago,31,41.742,-87.603
+9100 S. Loomis St.,Street,Washington Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/man-23-shot-killed-on-south-side.html,9100 S. Loomis St. Chicago,23,41.728,-87.658
+4100 W. Taylor St.,Street,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/man-26-found-slain-on-west-side.html,4100 W. Taylor St. Chicago,26,41.869,-87.728
+10700 S. Eggleston Ave.,Porch/hallway,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/03/person-severely-wounded-in-roseland-shooting.html,10700 S. Eggleston Ave. Chicago,30,41.700,-87.634
+6800 S. Peoria St.,Residential yard,Englewood,Female,Gunshot,http://www.chicagobreakingnews.com/2009/04/woman-found-fatally-stabbed-in-back-yard.html,6800 S. Peoria St. Chicago,41,41.769,-87.647
+6100 S. Cottage Grove Ave.,Sidewalk,Woodlawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/teen-shot-killed-on-south-side.html,6100 S. Cottage Grove Ave. Chicago,17,41.784,-87.606
+1400 N. Mason Ave.,Street,Austin,Male,Gunshot,,1400 N. Mason Ave. Chicago,41,41.906,-87.775
+5400 W. Division St.,Park,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/young-person-shot-at-west-side-park.html,5400 W. Division St. Chicago,28,41.902,-87.761
+6400 S. Ingleside Ave.,Street,Woodlawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/man-slain-in-woodlawn-shooting-police-say.html,6400 S. Ingleside Ave. Chicago,28,41.779,-87.602
+7100 S. Marshfield Ave.,Residence,West Englewood,Male,Gunshot,http://mobile.chicagotribune.com/inf/infomo?view=breakingnews_article&feed:a=chi_trib_1min&feed:c=latest_breaking_news&feed:i=7377A89E1843E66A1B5CFA74FD47221A,7100 S. Marshfield Ave. Chicago,23,41.765,-87.665
+6200 S. Campbell Ave.,Residence,Chicago Lawn,Male,Gunshot,http://www.myfoxchicago.com/dpp/news/Fatal_XBox,6200 S. Campbell Ave. Chicago,24,41.781,-87.686
+600 N. Ridgeway Ave.,Residence,Humboldt Park,Female,Stabbing,http://abclocal.go.com/wls/story?section=news/local&id=6749044,600 N. Ridgeway Ave. Chicago,83,41.892,-87.720
+7700 S. Carpenter St.,Porch/hallway,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/teen-shot-to-death-on-south-side-1.html,7700 S. Carpenter St. Chicago,15,41.754,-87.651
+0 W. 68th St.,Street,Greater Grand Crossing,Female,Gunshot,http://www.chicagobreakingnews.com/2009/04/1m-bail-for-man-accused-of-killing-girlfriend.html,0 W. 68th St. Chicago,35,41.771,-87.627
+9300 S. Greenwood Ave.,Park property,Burnside,Male,Gunshot,,9300 S. Greenwood Ave. Chicago,22,41.726,-87.597
+2600 W. 24th Place,Alley,South Lawndale,Male,Auto crash,,2600 W. 24th Place Chicago,22,41.848,-87.691
+4300 W. Thomas St.,Apartment,Humboldt Park,Female,Stabbing,http://www.chicagobreakingnews.com/2009/06/fugitive-in-girlfriends-west-side-slaying-caught.html,4300 W. Thomas St. Chicago,28,41.901,-87.734
+1600 W. 119th St.,Parking lot/garage,Morgan Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/robbins-man-shot-killed-in-morgan-park.html,1600 W. 119th St. Chicago,20,41.678,-87.661
+4400 W. Lexington St.,Street,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/mosley-shot-lawndale.html,4400 W. Lexington St. Chicago,21,41.872,-87.735
+1700 W. 50th St.,Street,New City,Male,Gunshot,http://www.nbcchicago.com/blogs/localleads/14-Year-Old_Becomes_33rd_CPS_Fatality.html,1700 W. 50th St. Chicago,14,41.803,-87.667
+1300 S. Throop St.,Street,Near West Side,Male,Trauma,http://www.chicagobreakingnews.com/2009/04/mans-death-under-investigation.html,1300 S. Throop St. Chicago,54,41.771,-87.657
+3300 W. Madison St.,Street,East Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/5-shot-in-flurry-of-shootings.html,3300 W. Madison St. Chicago,30,41.881,-87.709
+7900 S. King Dr.,Sidewalk,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/5-shot-in-flurry-of-shootings.html,7900 S. King Dr. Chicago,19,41.751,-87.615
+7100 S. Vincennes Ave.,Car wash,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/cops-englewood-shooting-injures-several.html,7100 S. Vincennes Ave. Chicago,29,41.765,-87.628
+500 W. 85th St.,Sidewalk,Auburn Gresham,Male,Gunshot,http://cbs2chicago.com/local/weekend.violence.shootings.2.989005.html,500 W. 85th St. Chicago,25,41.740,-87.638
+1000 N. Mason Ave.,Sidewalk,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/shooting-homicide-death-fatality-west-side-chicago-police-austin.html,1000 N. Mason Ave. Chicago,23,41.898,-87.774
+3300 W. Division St.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/shot-humboldt-park-division.html,3300 W. Division St. Chicago,43,41.903,-87.709
+6300 S. Ellis Ave.,Street,Woodlawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/3-charged-in-drive-by-slaying-on-south-side.html,6300 S. Ellis Ave. Chicago,38,41.780,-87.600
+9100 S. Stony Island Ave.,Hotel/motel,South Chicago,Female,Gunshot,http://www.chicagobreakingnews.com/2009/04/woman-found-dead-in-s-side-motel.html,9100 S. Stony Island Ave. Chicago,47,41.729,-87.586
+10700 S. Hoxie Ave,Street,South Deering,Female,Gunshot,http://www.chicagobreakingnews.com/2009/04/young-woman-slain-in-south-deering.html,10700 S. Hoxie Ave Chicago,18,41.701,-87.561
+7000 S. Sangamon St.,Street,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/man-killed-while-driving-in-englewood.html,7000 S. Sangamon St. Chicago,23,41.767,-87.648
+4400 W. Walton St.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/2-slain-in-separate-west-side-shootings-1.html,4400 W. Walton St. Chicago,24,41.898,-87.736
+1000 N. Monticello Ave.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/2-slain-in-separate-west-side-shootings-1.html,1000 N. Monticello Ave. Chicago,38,41.899,-87.718
+7800 S. King Dr.,Parking lot/garage,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/man-shot-at-gas-station.html,7800 S. King Dr. Chicago,37,41.753,-87.615
+3800 W. Flournoy St.,Alley,East Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/two-shot-on-west-side-1.html,3800 W. Flournoy St. Chicago,38,41.873,-87.720
+1400 N. Mason Ave.,Alley,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/man-shot-killed-in-vehicle-in-north-austin.html,1400 N. Mason Ave. Chicago,20,41.906,-87.775
+1600 S. Loomis St.,Vehicle,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/police-investigate-west-side-slaying.html,1600 S. Loomis St. Chicago,19,41.860,-87.662
+2000 W. Howard St.,Parking lot/garage,West Ridge,Male,Gunshot,,2000 W. Howard St. Chicago,28,42.019,-87.673
+5200 S. Carpenter St.,Sidewalk,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/teen-19-chased-down-and-slain-on-street.html,5200 S. Carpenter St. Chicago,19,41.800,-87.652
+13200 S. Ellis Ave.,Street,Riverdale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/man-charged-in-far-south-side-slaying.html,13200 S. Ellis Ave. Chicago,31,41.656,-87.597
+1800 N. St. Louis Ave.,Street,Logan Square,Female,Gunshot,http://www.chicagobreakingnews.com/2009/04/charges-filed-in-double-shooting.html,1800 N. St. Louis Ave. Chicago,18,41.917,-87.724
+7800 S. Essex Ave.,Sidewalk,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/man-shot-in-chest-after-dispute-in-south-shore.html,7800 S. Essex Ave. Chicago,21,41.753,-87.564
+3400 S. Giles Ave.,Apartment,Douglas,Female,Stabbing,http://abclocal.go.com/wls/story?section=news/local&id=6784447,3400 S. Giles Ave. Chicago,73,41.833,-87.620
+900 W. Garfield Blvd.,Sidewalk,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/04/man-shot-dead-on-south-side-2.html,900 W. Garfield Blvd. Chicago,23,41.795,-87.648
+5300 W. Chicago Ave.,Sidewalk,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/2-men-charged-in-west-side-slaying-of-teen.html,5300 W. Chicago Ave. Chicago,16,41.895,-87.758
+7100 S. Washtenaw Ave.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-fatally-shot-on-street-in-chicago-lawn.html,7100 S. Washtenaw Ave. Chicago,24,41.765,-87.691
+3000 W. 54th Pl.,Alley,Gage Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/teens-body-found-burned-in-gangway.html,3000 W. 54th Pl. Chicago,15,41.795,-87.699
+300 E. 107th St.,Street,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/2-hurt-in-separate-shootings-on-far-south-side.html,300 E. 107th St. Chicago,18,41.700,-87.616
+10500 S. Wabash Ave.,Apartment,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-fatally-shot-while-trying-to-sell-gun.html,10500 S. Wabash Ave. Chicago,31,41.703,-87.623
+4800 N. Troy Ave.,Sidewalk,Albany Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/2nd-man-dies-in-gang-related-shooting.html,4800 N. Troy Ave. Chicago,21,41.968,-87.707
+4800 N. Troy Ave.,Sidewalk,Albany Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/2nd-man-dies-in-gang-related-shooting.html,4800 N. Troy Ave. Chicago,34,41.968,-87.707
+1000 N. Kedzie Ave.,Street,Humboldt Park,Female,Auto crash,http://www.chicagobreakingnews.com/2009/05/2-killed-2-injured-in-humboldt-park-crash.html,1000 N. Kedzie Ave. Chicago,19,41.899,-87.707
+1000 N. Kedzie Ave.,Street,Humboldt Park,Female,Auto crash,http://www.chicagobreakingnews.com/2009/05/2-killed-2-injured-in-humboldt-park-crash.html,1000 N. Kedzie Ave. Chicago,22,41.899,-87.707
+7500 S. Coles Ave.,Apartment,South Shore,Male,Gunshot,,7500 S. Coles Ave. Chicago,45,41.760,-87.559
+5900 S. Normal Blvd.,Vacant property,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/4-shot-in-englewood.html,5900 S. Normal Blvd. Chicago,27,41.787,-87.638
+4400 W. Adams St.,Sidewalk,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-shot-to-death-on-west-side.html,4400 W. Adams St. Chicago,16,41.878,-87.736
+8200 S. Buffalo Ave.,Residential yard,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-found-slain-on-southeast-side.html,8200 S. Buffalo Ave. Chicago,21,41.746,-87.544
+5100 S. Wolcott Ave.,Vehicle,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/fatal-shooting-in-back-of-theyards.html,5100 S. Wolcott Ave. Chicago,26,41.801,-87.672
+5500 W. Congress Pkwy.,Residence garage,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/police-investigate-austin-slaying.html,5500 W. Congress Pkwy. Chicago,38,41.874,-87.762
+4700 W. North Ave.,Small retail store,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/police-seek-suspect-in-store-owner-slaying.html,4700 W. North Ave. Chicago,55,41.910,-87.744
+2000 W. Garfield Blvd.,Street,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/teen-near-hanover-park-home.html,2000 W. Garfield Blvd. Chicago,18,41.794,-87.675
+600 N. Parkside Ave.,Porch/hallway,Austin,Male,Stabbing,http://www.chicagobreakingnews.com/2009/05/man-stabbed-to-death-on-west-side.html,600 N. Parkside Ave. Chicago,44,41.891,-87.767
+3800 W. Ogden Ave.,Vehicle,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-19-fatally-shot-in-north-lawndale.html,3800 W. Ogden Ave. Chicago,19,41.853,-87.720
+4800 W. Polk St.,Street,Austin,Male,Gunshot,http://www.wbbm780.com/pages/4416443.php?contentType=4&contentId=4016559,4800 W. Polk St. Chicago,32,41.870,-87.745
+8300 S. Brandon Ave.,Street,South Chicago,Female,Gunshot,http://www.chicagobreakingnews.com/2009/05/teen-charged-as-adult-in-se-side-slaying.html,8300 S. Brandon Ave. Chicago,25,41.745,-87.547
+5100 W. North Ave.,Parking lot/garage,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/2-slain-in-separate-shootings-police-say.html,5100 W. North Ave. Chicago,19,41.910,-87.753
+4700 W. Van Buren St.,Residence,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/infant-shot-dead-in-austin-home-police-say.html,4700 W. Van Buren St. Chicago,3,41.875,-87.743
+3800 S. Wells St.,CHA parking lot,Armour Square,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/female-fatally-stabbed-on-south-side-cops-say.html,3800 S. Wells St. Chicago,37,41.824,-87.633
+7100 S. Bell Ave.,Street,Chicago Lawn,Female,Gunshot,http://www.chicagobreakingnews.com/2009/05/homicide-west-englewood-chicago-police-lawanda-williams.html,7100 S. Bell Ave. Chicago,34,41.765,-87.680
+7300 S. Merrill Ave.,Residence,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/female-fatally-stabbed-on-south-side-cops-say.html,7300 S. Merrill Ave. Chicago,70,41.762,-87.573
+8900 S. Hermitage Ave.,Residence,Auburn Gresham,Female,Stabbing,http://www.chicagobreakingnews.com/2009/05/female-fatally-stabbed-on-south-side-cops-say.html,8900 S. Hermitage Ave. Chicago,29,41.732,-87.667
+1200 N. California Ave.,Sidewalk,West Town,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-slain-in-humboldt-park.html,1200 N. California Ave. Chicago,30,41.903,-87.697
+9400 S. Burnside Ave.,Sidewalk,Chatham,Female,Gunshot,http://www.chicagobreakingnews.com/2009/05/4-shot-on-south-side.html,9400 S. Burnside Ave. Chicago,21,41.723,-87.607
+6500 S. Evans Ave.,Sidewalk,Woodlawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/3-slain-in-two-shootings.html,6500 S. Evans Ave. Chicago,17,41.777,-87.607
+3000 W. Van Buren St.,Street,East Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/3-slain-in-two-shootings.html,3000 W. Van Buren St. Chicago,27,41.876,-87.701
+3000 W. Van Buren St.,Street,East Garfield Park,Female,Gunshot,http://www.chicagobreakingnews.com/2009/05/3-slain-in-two-shootings.html,3000 W. Van Buren St. Chicago,19,41.876,-87.701
+1500 N. Leamington Ave.,Residential yard,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/3-slain-in-two-shootings.html,1500 N. Leamington Ave. Chicago,22,41.908,-87.755
+5900 S. Racine Ave.,Alley,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/homicide-reported-on-south-racine-avenue.html,5900 S. Racine Ave. Chicago,29,41.787,-87.655
+1100 S. Independence Blvd.,Street,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/1-killed-1-critical-in-north-lawndale-shooting.html,1100 S. Independence Blvd. Chicago,25,41.868,-87.721
+6800 S. Indiana Ave.,Sidewalk,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/shot-indiana-avenue.html,6800 S. Indiana Ave. Chicago,18,41.771,-87.621
+3900 W. 47th St.,Apartment,Archer Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/chicago-man-dies-after-shooting.html,3900 W. 47th St. Chicago,26,41.808,-87.721
+5700 S. Laflin St.,Sidewalk,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-fatally-shot-while-riding-bike-on-s-side.html,5700 S. Laflin St. Chicago,46,41.790,-87.662
+8300 S. Colfax Ave.,Sidewalk,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/chicago-police-south-west-side-shooting-homicide-gun-drive-by.html,8300 S. Colfax Ave. Chicago,24,41.744,-87.562
+4200 W. Gladys Ave.,Residence,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/chicago-police-south-west-side-shooting-homicide-gun-drive-by.html,4200 W. Gladys Ave. Chicago,37,41.876,-87.731
+4700 N. Sheridan Rd.,Commercial business/office,Uptown,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-found-shot-to-death-on-north-side.html,4700 N. Sheridan Rd. Chicago,$null$,41.967,-87.655
+900 E. 104th St.,Other,Pullman,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/southeast-side-man-fatally-shot-outside-home.html,900 E. 104th St. Chicago,28,41.706,-87.603
+10500 S. Indiana Ave.,Street,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/three-brothers-shot-one-fatally-on-south-side.html,10500 S. Indiana Ave. Chicago,30,41.703,-87.619
+6400 S. Richmond St.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-killed-in-drive-by-shooting.html,6400 S. Richmond St. Chicago,26,41.777,-87.697
+200 N. Sangamon St.,Street,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/police-investigate-drive-by-shooting.html,200 N. Sangamon St. Chicago,34,41.886,-87.651
+1100 N. Kildare Ave.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/two-men-killed-a-third-injured-in-west-side-shootings.html,1100 N. Kildare Ave. Chicago,32,41.901,-87.734
+1100 N. Kildare Ave.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/two-men-killed-a-third-injured-in-west-side-shootings.html,1100 N. Kildare Ave. Chicago,32,41.901,-87.734
+800 E. 80th St.,Sidewalk,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/05/man-26-killed-in-south-side-shooting.html,800 E. 80th St. Chicago,26,41.749,-87.605
+6000 S. Hermitage Ave.,Sidewalk,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/wake-held-for-slain-chicago-cop.html,6000 S. Hermitage Ave. Chicago,27,41.785,-87.668
+3700 W. 79th St.,Sidewalk,Ashburn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/ramil-celestin-shot-robbery-bbw-social-club.html,3700 W. 79th St. Chicago,23,41.750,-87.714
+7700 S. Normal Ave.,,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/2-men-killed-in-separated-south-side-shootings.html,7700 S. Normal Ave. Chicago,30,41.754,-87.637
+8300 S. Brandon Ave.,Sidewalk,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/2-men-killed-in-separated-south-side-shootings.html,8300 S. Brandon Ave. Chicago,20,41.745,-87.547
+5800 W. Ohio St.,Street,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/2-fatally-shot-in-south-west-side-shootings.html,5800 W. Ohio St. Chicago,27,41.891,-87.770
+600 E. 87th St.,Residence,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/first-degree-murder-charge-chicago-police-chatham-calvin-marshall.html,600 E. 87th St. Chicago,29,41.737,-87.610
+4900 S. Wabash Ave.,School,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/2-shot-1-fatally-outside-dusable-hs.html,4900 S. Wabash Ave. Chicago,20,41.805,-87.624
+6400 S. Sangamon Ave.,,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-dies-a-month-after-being-shot-in-a-drive-by.html,6400 S. Sangamon Ave. Chicago,29,41.778,-87.649
+4900 S. Kolin Ave.,Street,Archer Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/5-shot-1-beaten-on-south-and-sw-sides.html,4900 S. Kolin Ave. Chicago,20,41.804,-87.732
+2700 W. St. Georges Ct.,Sidewalk,Logan Square,Male,Assault,http://www.chicagobreakingnews.com/2009/06/humberto-collaguazo-logan-square-northwest-side-beating-robbery-homicide-chicago-police.html,2700 W. St. Georges Ct. Chicago,43,41.922,-87.696
+1000 E. 93rd St.,Street,Burnside,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/shooting-stribling-93rd-street.html,1000 E. 93rd St. Chicago,22,41.726,-87.600
+600 W. 116th St.,Street,West Pullman,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-shot-dead-on-far-south-side-porch.html,600 W. 116th St. Chicago,33,41.684,-87.637
+7500 S. Perry Ave.,Street,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-shot-in-west-chatham-neighorhood.html,7500 S. Perry Ave. Chicago,29,41.758,-87.628
+1300 S. Kolin Ave.,Residential yard,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-shot-dead-in-lawndale.html,1300 S. Kolin Ave. Chicago,21,41.864,-87.734
+5400 S. Ellis Ave.,Residence,Hyde Park,Female,Strangling,http://www.chicagobreakingnews.com/2009/06/autopsy-woman-was-strangled-in-apartment.html,5400 S. Ellis Ave. Chicago,54,41.798,-87.602
+6000 N. Damen Ave.,,West Ridge,Male,Assault,http://www.chicagobreakingnews.com/2009/06/man-found-beaten-under-van-ruled-homocide.html,6000 N. Damen Ave. Chicago,26,41.991,-87.680
+5100 S. Mozart St.,Residential yard,Gage Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-found-slain-in-backyard-on-southwest-side.html,5100 S. Mozart St. Chicago,22,41.801,-87.695
+4100 W. 82nd Pl.,Residential yard,Ashburn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/teen-dies-after-being-shot-on-sunday-evening.html,4100 W. 82nd Pl. Chicago,15,41.743,-87.724
+4300 S. Kedzie Ave.,,Brighton Park,Male,Assault,http://www.chicagobreakingnews.com/2009/06/beating-death-ruled-homicide.html,4300 S. Kedzie Ave. Chicago,23,41.815,-87.705
+4700 S. Ellis Ave.,Alley,Kenwood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-fatally-shot-in-car-on-s-side-street.html,4700 S. Ellis Ave. Chicago,38,41.810,-87.602
+1600 W. 57th St.,Sidewalk,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/at-least-1-critically-injured-in-s-side-shooting.html,1600 W. 57th St. Chicago,23,41.790,-87.665
+3500 W. 80th St.,Sidewalk,Ashburn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/teen-found-slain-on-southwest-side.html,3500 W. 80th St. Chicago,16,41.748,-87.710
+5000 W. Ferdinand St.,Sidewalk,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/south-austin-homicide-shooting-ferdinand-lavergne-chicago-police-grand-central-area-lawler.html,5000 W. Ferdinand St. Chicago,25,41.889,-87.750
+6100 S. Cicero Ave.,Street,Clearing,Male,Auto crash,http://www.chicagobreakingnews.com/2009/06/chicago-police-61st-cicero-traffic-crash-fatality-major-accident-investigation.html,6100 S. Cicero Ave. Chicago,16,41.782,-87.742
+1300 S. Albany Ave.,Residential yard,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/teen-shot-dead-near-west-side-park.html,1300 S. Albany Ave. Chicago,17,41.864,-87.703
+1000 W. Garfield Blvd.,Street,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-shot-to-death-in-car-on-south-side-garfield-boulevard.html,1000 W. Garfield Blvd. Chicago,18,41.794,-87.650
+7700 S. Phillips Ave.,,South Shore,Male,Gunshot,,7700 S. Phillips Ave. Chicago,28,41.755,-87.565
+1500 N. Western Ave.,Vehicle,West Town,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/chicago-police-were-investigating-the.html,1500 N. Western Ave. Chicago,24,41.909,-87.688
+9200 S. Harper Ave.,Street,Calumet Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-24-slain-on-far-south-side.html,9200 S. Harper Ave. Chicago,24,41.728,-87.587
+5400 W. Thomas St.,,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/1-dead-3-wounded-during-west-side-party.html,5400 W. Thomas St. Chicago,29,41.901,-87.761
+7600 S. Ingleside Ave.,Street,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/1-dead-3-hurt-in-separate-s-side-shootings.html,7600 S. Ingleside Ave. Chicago,32,41.757,-87.602
+1600 S. Karlov Ave.,,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-dies-after-weekend-shooting.html,1600 S. Karlov Ave. Chicago,31,41.859,-87.727
+400 S. Keeler Ave.,Street,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/east-garfield-park-man-a-shooting-victim.html,400 S. Keeler Ave. Chicago,31,41.875,-87.730
+6100 S. Princeton Ave.,Street,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-hit-by-gunfire-in-englewood-dies.html,6100 S. Princeton Ave. Chicago,45,41.783,-87.633
+7400 S. Stewart Ave.,Street,Greater Grand Crossing,Female,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-gets-3-years-in-englewood-girls-death.html,7400 S. Stewart Ave. Chicago,9,41.760,-87.635
+200 W. 112th Pl.,,Roseland,Male,Gunshot,,200 W. 112th Pl. Chicago,24,41.690,-87.628
+5100 W. Hirsch St.,Park property,Austin,Female,Gunshot,http://www.chicagobreakingnews.com/2009/06/woman-killed-man-wounded-in-shooting.html,5100 W. Hirsch St. Chicago,20,41.906,-87.753
+1900 S. Trumbull Ave.,Sidewalk,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/teen-shot-to-death-near-west-side-home.html,1900 S. Trumbull Ave. Chicago,18,41.856,-87.711
+5900 S. Maplewood Ave.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/northwest-side-man-slain-on-southwest-side.html,5900 S. Maplewood Ave. Chicago,24,41.786,-87.688
+6100 W. Diversey Ave.,Street,Belmont Cragin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/northwest-side-man-shot-to-death-near-home.html,6100 W. Diversey Ave. Chicago,29,41.931,-87.778
+1000 W. 60th St.,Street,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-found-fatally-shot-on-englewood-street.html,1000 W. 60th St. Chicago,22,41.785,-87.650
+2400 W. North Ave.,Vehicle,West Town,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-killed-in-suv-owned-by-wronfully-convicted-man.html,2400 W. North Ave. Chicago,37,41.911,-87.688
+4100 W. Madison St.,Street,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-fatally-shot-in-his-vehicle-on-west-side.html,4100 W. Madison St. Chicago,38,41.881,-87.728
+5900 S. Whipple St.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/suspects-sought-in-chicago-lawn-slaying.html,5900 S. Whipple St. Chicago,21,41.786,-87.700
+1900 N. California Ave.,Sidewalk,Logan Square,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-shot-while-riding-bike-in-logan-square.html,1900 N. California Ave. Chicago,19,41.916,-87.697
+9400 S. Ada St.,Vehicle,Washington Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-shot-to-death-in-car-on-s-side-street.html,9400 S. Ada St. Chicago,22,41.723,-87.657
+6400 W. Touhy Ave.,Residence,Forest Glen,Male,Stabbing,http://www.chicagobreakingnews.com/2009/07/police-cook-county-illinois-chicago-united-states-counties-cook-illinois-landlord-tenant-stabbing-fa.html,6400 W. Touhy Ave. Chicago,54,42.012,-87.787
+2300 E. 79th St.,Gas station,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/06/man-shot-in-west-chatham-neighorhood.html,2300 E. 79th St. Chicago,26,41.752,-87.569
+5000 S. Talman Ave.,Apartment,Gage Park,Male,Assault,http://www.chicagobreakingnews.com/2009/07/charges-in-beating-death-of-elderly-man.html,5000 S. Talman Ave. Chicago,67,41.803,-87.691
+1400 W. 72nd Pl.,Sidewalk,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/2-teens-shot-on-south-side.html,1400 W. 72nd Pl. Chicago,16,41.763,-87.659
+5800 S. Union Ave.,Street,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/englewood-shot-gun-violence.html,5800 S. Union Ave. Chicago,26,41.789,-87.643
+4300 S. Champlain Ave.,,Grand Blvd.,Male,Stabbing,http://www.chicagobreakingnews.com/2009/07/bronzeville-man-stabbed-to-death-in-domestic.html,4300 S. Champlain Ave. Chicago,35,41.817,-87.610
+3300 W. Congress Pkwy,Alley,East Garfield Pk,Female,Strangling,http://www.chicagobreakingnews.com/2009/07/after-a-violent-july-4th.html,3300 W. Congress Pkwy Chicago,29,41.875,-87.709
+1200 E. 63rd St.,Street,Woodlawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/two-men-shot-dead-in-woodlawn.html,1200 E. 63rd St. Chicago,26,41.781,-87.596
+1200 E. 63rd St.,Street,Woodlawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/two-men-shot-dead-in-woodlawn.html,1200 E. 63rd St. Chicago,26,41.781,-87.596
+500 E. 91st St.,Porch/hallway,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/after-a-violent-july-4th.html,500 E. 91st St. Chicago,35,41.729,-87.612
+4700 S. Forrestville Ave.,Sidewalk,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/one-man-killed-two-injured-in-separate-shootings.html,4700 S. Forrestville Ave. Chicago,21,41.809,-87.613
+4700 S. Paulina St.,Street,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/after-a-violent-july-4th.html,4700 S. Paulina St. Chicago,29,41.809,-87.667
+400 W. 116th St.,,West Pullman,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/after-a-violent-july-4th.html,400 W. 116th St. Chicago,22,41.684,-87.633
+8700 S. Langley Ave.,,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/travon-woods-west-englewood-chicago-chicago-police-south-side-advocate-christ-medical-center-cook-co.html,8700 S. Langley Ave. Chicago,22,41.737,-87.607
+5900 S. Honore St.,,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/travon-woods-west-englewood-chicago-chicago-police-south-side-advocate-christ-medical-center-cook-co.html,5900 S. Honore St. Chicago,21,41.787,-87.670
+2200 E. 78th St.,,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/after-a-violent-july-4th.html,2200 E. 78th St. Chicago,18,41.754,-87.570
+1200 W. 72nd Pl.,Porch/hallway,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/after-a-violent-july-4th.html,1200 W. 72nd Pl. Chicago,38,41.762,-87.654
+2800 W. 62nd St.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-fatally-shot-in-chicago-lawn.html,2800 W. 62nd St. Chicago,20,41.781,-87.693
+3400 W. Jackson Blvd.,Street,East Garfield Pk,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/shooting-west-side-jackson-homan.html,3400 W. Jackson Blvd. Chicago,24,41.878,-87.711
+600 N. Leamington Ave.,Alley,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-died-after-being-shot-and-stabbed-in-austin.html,600 N. Leamington Ave. Chicago,27,41.891,-87.754
+1300 W. 14th St.,CHA apartment,Near West Side,Female,Assault,http://www.chicagobreakingnews.com/2009/07/800000-bail-for-man-accused-of-killing-mom.html,1300 W. 14th St. Chicago,82,41.863,-87.659
+4500 S. Cicero Ave.,Street,Garfield Ridge,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/chicago-police-cicero-avenue-shooting-advocate-christ-medical-center.html,4500 S. Cicero Ave. Chicago,23,41.811,-87.743
+4400 S. Leclaire Ave.,Vehicle,Garfield Ridge,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/shooting-homicide-leclaire-avenue-southwest-side-chicago-police.html,4400 S. Leclaire Ave. Chicago,21,41.813,-87.751
+4900 W. Erie St.,Sidewalk,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/nathaniel-pierson-erie-shot.html,4900 W. Erie St. Chicago,19,41.893,-87.748
+7300 S. Dante Ave.,Street,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/south-shore-chicago-police-carjacking-shooting-homicide-dante-avenue.html,7300 S. Dante Ave. Chicago,21,41.762,-87.590
+4200 W. Madison St.,,West Garfield Pk,Male,Assault,http://www.chicagobreakingnews.com/2009/07/charges-in-beating-death-of-teen-found-in-trash-on-west-side.html,4200 W. Madison St. Chicago,17,41.881,-87.731
+2800 W. 55th St.,Gas station,Gage Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-shot-dead-at-sw-side-gas-station.html,2800 W. 55th St. Chicago,26,41.794,-87.694
+2200 E. 100th St.,Street,South Deering,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-shot-dead-in-jeffrey-manor.html,2200 E. 100th St. Chicago,19,41.714,-87.570
+2300 S. Sawyer Ave.,Alley,South Lawndale,Male,Assault,http://www.chicagobreakingnews.com/2009/07/three-held-in-fatal-beating-in-little-village.html,2300 S. Sawyer Ave. Chicago,23,41.850,-87.706
+700 N. Throop St.,Street,West Town,Male,Assault,http://www.chicagobreakingnews.com/2009/07/man-found-dead-on-birthday-in-west-town.html,700 N. Throop St. Chicago,50,41.894,-87.660
+600 W. 89th St.,Street,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/south-side-bronzeville-chatham-englewood-gresham-chicago-police-89th-street-ellis-calumet-peoria.html,600 W. 89th St. Chicago,20,41.733,-87.639
+1700 S. Union Ave.,Vehicle,Lower West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/1-killed-1-wounded-in-east-pilsen-shooting.html,1700 S. Union Ave. Chicago,31,41.859,-87.645
+2900 W. Palmer St.,Sidewalk,Logan Square,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/grand-central-logan-square-homicide-shooting-chicago-police-palmer-street.html,2900 W. Palmer St. Chicago,17,41.922,-87.700
+1100 N. Wood St.,Sidewalk,West Town,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/grand-central-logan-square-homicide-shooting-chicago-police-palmer-street.html,1100 N. Wood St. Chicago,20,41.901,-87.672
+6400 S. Eggleston Ave.,Street,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/grand-central-logan-square-homicide-shooting-chicago-police-palmer-street.html,6400 S. Eggleston Ave. Chicago,17,41.778,-87.637
+1400 N. Rockwell Ave.,CHA parking lot,West Town,Male,Stabbing,http://www.chicagobreakingnews.com/2009/07/man-charged-in-fatal-humboldt-park-stabbing.html,1400 N. Rockwell Ave. Chicago,22,41.907,-87.692
+200 W. 59th St.,Street,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/grand-central-logan-square-homicide-shooting-chicago-police-palmer-street.html,200 W. 59th St. Chicago,29,41.787,-87.630
+4100 W. 21st St.,Sidewalk,North Lawndale,Male,Gunshot,,4100 W. 21st St. Chicago,29,41.854,-87.727
+1600 N. Mason Ave.,Street,Austin,Female,Gunshot,http://www.chicagobreakingnews.com/2009/07/chicago-police-austin-near-west-side-jackson-mason-driveby-shooting.html,1600 N. Mason Ave. Chicago,28,41.909,-87.774
+1400 W. 54th St.,Sidewalk,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/teen-found-dead-in-back-of-the-yards.html,1400 W. 54th St. Chicago,17,41.796,-87.660
+11400 S. Stewart Ave.,Street,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/chicago-police-are-investigating-a.html,11400 S. Stewart Ave. Chicago,24,41.687,-87.633
+3500 W. Lexington St.,Vacant property,East Garfield Pk,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-charged-for-shooting-7-on-west-side.html,3500 W. Lexington St. Chicago,21,41.872,-87.714
+5200 S. Artesian Ave.,Porch/hallway,Gage Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/17-year-old-shot-in-head-on-southwest-side.html,5200 S. Artesian Ave. Chicago,17,41.799,-87.686
+4600 N. Central Park Ave.,Street,Albany Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/1-slain-1-wounded-in-albany-park-shooting.html,4600 N. Central Park Ave. Chicago,21,41.965,-87.718
+400 N. Laramie Ave.,Street,Austin,Female,Gunshot,http://www.chicagobreakingnews.com/2009/07/female-victim-shot-on-west-side.html,400 N. Laramie Ave. Chicago,23,41.888,-87.755
+10600 S. Ave. E,,East Side,Female,Abuse,http://www.chicagobreakingnews.com/2009/07/7-month-old-girls-death-ruled-a-homicide.html,10600 S. Ave. E Chicago,$null$,41.703,-87.530
+1400 W. 18th St.,Vehicle,Lower West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/charges-filed-against-man-caught-by-off-duty-cops.html,1400 W. 18th St. Chicago,19,41.858,-87.661
+7900 S. Paulina St.,Street,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/2-people-shot-in-gresham-one-seriously-injured.html,7900 S. Paulina St. Chicago,28,41.750,-87.666
+700 N. Cicero Ave.,Alley,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-shot-dead-in-south-austin-alley.html,700 N. Cicero Ave. Chicago,22,41.893,-87.746
+9700 S. Genoa Ave.,Vehicle,Washington Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-killed-in-longwood-manor.html,9700 S. Genoa Ave. Chicago,32,41.717,-87.651
+3700 W. Grenshaw St.,Apartment,North Lawndale,Female,Gunshot,,3700 W. Grenshaw St. Chicago,29,41.867,-87.718
+8200 S. Maryland Ave.,,Chatham,Male,Trauma,http://www.chicagobreakingnews.com/2009/07/baby-dead-after-falling-from-porch.html,8200 S. Maryland Ave. Chicago,$null$,41.746,-87.604
+5900 S. Homan Ave.,Street,Gage Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/teen-slain-while-riding-bike-is-identified.html,5900 S. Homan Ave. Chicago,18,41.786,-87.708
+4500 W. Cornelia Ave.,Sidewalk,Irving Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/male-shot-on-northwest-side.html,4500 W. Cornelia Ave. Chicago,17,41.944,-87.740
+900 N. Larrabee St.,Street,Near North Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/07/man-fatally-shot-while-driving-on-near-n-side.html,900 N. Larrabee St. Chicago,31,41.899,-87.643
+4100 W. Palmer St.,Sidewalk,Hermosa,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-charged-in-shooting-death-of-boy.html,4100 W. Palmer St. Chicago,15,41.921,-87.729
+1600 W. 79th St.,,Auburn Gresham,Male,Abuse,http://www.chicagobreakingnews.com/2009/08/bail-set-for-woman-boyfriend-in-toddlers-death.html,1600 W. 79th St. Chicago,$null$,41.750,-87.664
+600 E. 91st St.,Residence,Chatham,Male,Stabbing,http://www.chicagobreakingnews.com/2009/08/man-charged-in-slaying-of-brother.html,600 E. 91st St. Chicago,54,41.730,-87.609
+6700 S. Wabash Ave.,Residential yard,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-found-shot-killed-in-park-manor.html,6700 S. Wabash Ave. Chicago,20,41.773,-87.624
+6000 S. Green St.,Sidewalk,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/2-shot-one-dead-at-englewood-block-party-1.html,6000 S. Green St. Chicago,19,41.785,-87.646
+3500 W. Augusta Blvd.,,Humboldt Park,Female,Auto crash,http://www.chicagobreakingnews.com/2009/08/charges-upgraded-to-murder-in-suv-crash.html,3500 W. Augusta Blvd. Chicago,18,41.899,-87.714
+1400 N. California Ave.,Street,West Town,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/car-crash-victim-shot-multiple-times.html,1400 N. California Ave. Chicago,35,41.907,-87.697
+1500 N. Western Ave.,Vehicle,West Town,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/car-crash-victim-shot-multiple-times.html,1500 N. Western Ave. Chicago,18,41.909,-87.688
+5700 S. Artesian Ave.,Vehicle,Gage Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/2-shot-during-attempt-robbery-1-dead.html,5700 S. Artesian Ave. Chicago,21,41.790,-87.686
+9700 S. Avenue J,Alley,East Side,Female,Strangling,,9700 S. Avenue J Chicago,$null$,41.719,-87.534
+700 N. Ridgeway Ave.,Sidewalk,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/2-shot-on-west-side.html,700 N. Ridgeway Ave. Chicago,52,41.894,-87.720
+600 W. 123rd St.,Sidewalk,West Pullman,Male,Gunshot,http://archives.chicagotribune.com/2009/aug/06/local/chi-sw-side-shooting-06-aug06,600 W. 123rd St. Chicago,31,41.671,-87.637
+3100 W. 36th St.,Sidewalk,Brighton Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/motorist-who-died-after-crash-had-been-shot.html,3100 W. 36th St. Chicago,43,41.829,-87.702
+3400 N. Rutherford Ave.,Alley,Dunning,Female,Strangling,http://www.chicagobreakingnews.com/2009/08/woman-whose-body-was-dumped-was-strangled.html,3400 N. Rutherford Ave. Chicago,25,41.942,-87.795
+4900 W. Adams St.,Alley,Austin,Female,Strangling,http://www.chicagobreakingnews.com/2009/08/austin-west-side-strangulation-chicago-police-shannon-williams.html,4900 W. Adams St. Chicago,36,41.879,-87.747
+800 W. 76th St.,Sidewalk,Auburn Gresham,Male,Stabbing,http://www.chicagobreakingnews.com/2009/08/man-charged-in-fatal-south-side-stabbing.html,800 W. 76th St. Chicago,22,41.756,-87.644
+7100 S. Artesian Ave.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/no-bail-for-man-accused-in-fatal-marquette-park-shooting.html,7100 S. Artesian Ave. Chicago,28,41.765,-87.684
+10000 S. Eberhart Ave.,Residence,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/two-found-dead-on-far-south-side.html,10000 S. Eberhart Ave. Chicago,70,41.713,-87.612
+10000 S. Eberhart Ave.,Residence,Roseland,Female,Stabbing,http://www.chicagobreakingnews.com/2009/08/two-found-dead-on-far-south-side.html,10000 S. Eberhart Ave. Chicago,63,41.713,-87.612
+6900 S. Cornell Ave.,Alley,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/17-year-old-shot-dead-in-south-shore.html,6900 S. Cornell Ave. Chicago,17,41.770,-87.584
+6800 S. Marshfield Ave.,Apartment,West Englewood,Female,Strangling,http://www.chicagobreakingnews.com/2009/08/south-side-womans-death-a-homicide.html,6800 S. Marshfield Ave. Chicago,$null$,41.770,-87.665
+10700 S. Calhoun Ave.,,South Deering,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/1-killed-1-hurt-in-south-deering-drive-by-shooting.html,10700 S. Calhoun Ave. Chicago,21,41.701,-87.562
+6900 S. Hermitage Ave.,Sidewalk,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-shot-critically-wounded-on-south-side.html,6900 S. Hermitage Ave. Chicago,36,41.768,-87.668
+3200 W. Pierce Ave.,Sidewalk,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/west-side-man-shot-to-death-near-his-home.html,3200 W. Pierce Ave. Chicago,19,41.909,-87.707
+1200 W. 61st St.,Residence,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-59-questioned-in-englewood-slaying.html,1200 W. 61st St. Chicago,36,41.783,-87.655
+7100 S. Constance Ave.,Vehicle,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-slain-in-double-shooting-on-south-side-joshua-darnell.html,7100 S. Constance Ave. Chicago,29,41.766,-87.580
+7100 S. Constance Ave.,Vehicle,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-slain-in-double-shooting-on-south-side-joshua-darnell.html,7100 S. Constance Ave. Chicago,28,41.766,-87.580
+9500 S. Wallace St.,Street,Washington Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/1-dead-in-longwood-manor-shooting.html,9500 S. Wallace St. Chicago,24,41.721,-87.638
+10700 S. Lafayette Ave.,,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-shot-in-ongoing-feud-dies-of-wounds.html,10700 S. Lafayette Ave. Chicago,28,41.700,-87.625
+1600 S. Drake Ave.,Sidewalk,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-shot-dead-in-lawndale-1.html,1600 S. Drake Ave. Chicago,27,41.859,-87.714
+5500 S. Michigan Ave.,Street,Washington Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-shot-in-back-on-south-side.html,5500 S. Michigan Ave. Chicago,29,41.795,-87.622
+300 E. 132nd Pl.,Residence,Riverdale,Female,Trauma,http://www.chicagobreakingnews.com/2009/08/cops-dcfs-probe-death-of-far-s-side-toddler.html,300 E. 132nd Pl. Chicago,$null$,41.656,-87.614
+4400 S. Leclaire Ave.,Park property,Garfield Ridge,Female,Strangling,,4400 S. Leclaire Ave. Chicago,31,41.813,-87.751
+1700 W. Cermak Rd.,,Lower West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-dies-3-days-after-being-shot-on-west-side.html,1700 W. Cermak Rd. Chicago,29,41.853,-87.669
+9800 S. Ewing Ave.,Street,East Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-charged-in-car-passengers-shooting-death.html,9800 S. Ewing Ave. Chicago,24,41.718,-87.536
+5200 W. Ferdinand St.,Residence,Austin,Female,Gunshot,http://www.chicagobreakingnews.com/2009/08/police-seek-man-in-wifes-slaying.html,5200 W. Ferdinand St. Chicago,53,41.889,-87.755
+4300 S. Prairie Ave.,Porch/hallway,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/3-shot-in-bronzeville-neighborhood.html,4300 S. Prairie Ave. Chicago,50,41.817,-87.620
+1900 N. Kedvale Ave.,Sidewalk,Hermosa,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-shot-to-death-in-northwest-side-drive-by.html,1900 N. Kedvale Ave. Chicago,21,41.915,-87.731
+4900 S. Wolcott Ave.,Street,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/teen-shot-dead-in-back-of-the-yards-neighborhood.html,4900 S. Wolcott Ave. Chicago,18,41.805,-87.672
+901 S. Austin Blvd.,,Austin,Male,Abuse,http://www.chicagobreakingnews.com/2009/12/first-degree-murder-charges-in-nursing-home-death.html,901 S. Austin Blvd. Chicago,72,41.870,-87.774
+1100 N. Harding Ave.,Alley,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-shot-in-humboldt-park.html,1100 N. Harding Ave. Chicago,16,41.901,-87.725
+7500 S. Green St.,Alley,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-found-shot-in-head-in-gresham.html,7500 S. Green St. Chicago,26,41.758,-87.646
+5800 S. Prairie Ave.,,Washington Park,Male,Stabbing,http://www.chicagobreakingnews.com/2009/09/man-dies-after-being-stabbed-with-steak-knife-in-august.html,5800 S. Prairie Ave. Chicago,38,41.789,-87.620
+2000 W. 79th St.,Alley,Ashburn,Male,Stabbing,http://www.chicagobreakingnews.com/2009/08/2-men-stabbed-in-wrightwood-1-in-critical-condition.html,2000 W. 79th St. Chicago,29,41.750,-87.674
+3300 W. Monroe St.,Alley,East Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-found-dead-in-east-garfield-park-alley.html,3300 W. Monroe St. Chicago,26,41.880,-87.709
+2600 E. 87th St.,Sidewalk,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-found-slain-on-south-chicago-sidewalk.html,2600 E. 87th St. Chicago,29,41.737,-87.561
+8700 S. Saginaw Ave.,Porch/hallway,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/teen-charged-in-slaying-of-south-chicago-man.html,8700 S. Saginaw Ave. Chicago,39,41.737,-87.560
+7200 S. Carpenter St.,Sidewalk,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/man-critically-wounded-in-englewood-shooting.html,7200 S. Carpenter St. Chicago,26,41.763,-87.651
+7400 S. East End Ave.,Street,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/south-chicago-man-fatally-shot.html,7400 S. East End Ave. Chicago,27,41.761,-87.584
+2600 S. Kildare Ave.,Alley,South Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-charged-in-little-village-robbery-slaying.html,2600 S. Kildare Ave. Chicago,29,41.844,-87.732
+2100 E. 71st St.,Sidewalk,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/a-man-was-shot-this.html,2100 E. 71st St. Chicago,34,41.766,-87.574
+2000 E. 71st St.,,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/08/a-man-was-shot-this.html,2000 E. 71st St. Chicago,24,41.766,-87.576
+7800 S. Creiger Ave.,Sidewalk,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/1-man-killed-1-critically-injured-in-south-south.html,7800 S. Creiger Ave. Chicago,28,41.753,-87.581
+600 N. Ridgeway Ave.,Sidewalk,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-shot-in-east-garfield-park.html,600 N. Ridgeway Ave. Chicago,39,41.892,-87.720
+7600 S. Hermitage Ave.,Apartment,Auburn Gresham,Female,Stabbing,http://www.chicagobreakingnews.com/2009/09/two-stabbed-during-south-side-card-game.html,7600 S. Hermitage Ave. Chicago,37,41.756,-87.668
+6600 S. Cottage Grove Ave.,Alley,Woodlawn,Male,Trauma,http://www.chicagobreakingnews.com/2009/09/man-found-beaten-to-death-behind-s-side-building.html,6600 S. Cottage Grove Ave. Chicago,45,41.775,-87.606
+2800 E. 95th St.,Gas station,Calumet Heights,Male,Auto crash,http://www.chicagobreakingnews.com/2009/09/police-investigating-calumet-heights-homicide.html,2800 E. 95th St. Chicago,25,41.723,-87.556
+7300 S. Stony Island Ave.,Parking lot/garage,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-gunned-down-killed-in-grand-crossing.html,7300 S. Stony Island Ave. Chicago,26,41.762,-87.587
+2800 S. Christiana Ave.,Other,South Lawndale,Male,Stabbing,http://www.chicagobreakingnews.com/2009/09/little-village-man-stabbed-to-death-in-home.html,2800 S. Christiana Ave. Chicago,31,41.841,-87.709
+200 E. 71st St.,Sidewalk,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/south-side-man-found-shot-dead-near-vehicle.html,200 E. 71st St. Chicago,44,41.766,-87.620
+6600 S. Seeley Ave.,Sidewalk,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-targeted-by-unknown-shooter-on-south-side-porch.html,6600 S. Seeley Ave. Chicago,26,41.774,-87.675
+8000 S. Paulina St.,Sidewalk,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/1-man-killed-1-wounded-in-gresham-shooting.html,8000 S. Paulina St. Chicago,20,41.748,-87.666
+8900 S. May St.,Alley,Washington Heights,Male,Gunshot,,8900 S. May St. Chicago,27,41.732,-87.652
+700 W. 19th Pl.,Sidewalk,Lower West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-shot-dead-in-pilsen-neighborhood.html,700 W. 19th Pl. Chicago,40,41.856,-87.645
+300 S. California Ave.,,East Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-slain-in-east-garfield-park.html,300 S. California Ave. Chicago,20,41.877,-87.696
+3900 W. 30th St.,Sidewalk,South Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/1-killed-in-little-village-shooting.html,3900 W. 30th St. Chicago,17,41.839,-87.722
+11700 S. Normal Ave.,Porch/hallway,West Pullman,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/1-man-dead-another-wounded-in-west-pullman-shooting.html,11700 S. Normal Ave. Chicago,24,41.682,-87.635
+11100 S. Edbrooke Ave.,Sidewalk,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-gunned-down-in-roseland.html,11100 S. Edbrooke Ave. Chicago,19,41.693,-87.620
+2500 N. Ashland Ave.,Residence,Lincoln Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-found-fatally-shout-in-west-depaul-apartment.html,2500 N. Ashland Ave. Chicago,29,41.927,-87.669
+5100 W. Washington Blvd.,Street,Austin,Male,Stabbing,http://www.chicagobreakingnews.com/2009/09/man-stabbed-to-death-in-austin-neighborhood.html,5100 W. Washington Blvd. Chicago,23,41.882,-87.753
+4700 S. Forrestville Ave.,Sidewalk,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/two-shot-in-bronzeville-one-fatally.html,4700 S. Forrestville Ave. Chicago,23,41.809,-87.613
+2600 E. 105th St.,Street,South Deering,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/burbank-man-fatally-shot-in-car-after-argument.html,2600 E. 105th St. Chicago,38,41.705,-87.561
+4900 S. Kildare Ave.,Sidewalk,Archer Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/teen-slain-in-archer-heights.html,4900 S. Kildare Ave. Chicago,19,41.804,-87.731
+1100 W. Berwyn Ave.,Alley,Edgewater,Male,Stabbing,http://www.chicagobreakingnews.com/2009/09/man-stabbed-to-death-in-edgewater.html,1100 W. Berwyn Ave. Chicago,32,41.978,-87.658
+8100 S. Green St.,Street,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/vigil-held-for-slain-high-school-student.html,8100 S. Green St. Chicago,17,41.747,-87.645
+3500 W. Sunnyside Ave.,Apartment,Albany Park,Female,Gunshot,http://www.chicagobreakingnews.com/2009/09/2-shot-critically-injured-in-albany-park.html,3500 W. Sunnyside Ave. Chicago,19,41.963,-87.716
+3500 W. Sunnyside Ave.,Apartment,Albany Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/2-shot-critically-injured-in-albany-park.html,3500 W. Sunnyside Ave. Chicago,24,41.963,-87.716
+7100 S. Coles Ave.,,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/person-shot-during-possible-robbery-in-south-shore.html,7100 S. Coles Ave. Chicago,45,41.766,-87.565
+2200 S. Kildare Ave.,Residence,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/no-bail-for-man-accused-of-killing-parents-1.html,2200 S. Kildare Ave. Chicago,79,41.851,-87.731
+2200 S. Kildare Ave.,Residence,North Lawndale,Female,Gunshot,http://www.chicagobreakingnews.com/2009/09/no-bail-for-man-accused-of-killing-parents-1.html,2200 S. Kildare Ave. Chicago,77,41.851,-87.731
+3000 E. 79th St.,,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/slaying-victim-found-on-south-side-street.html,3000 E. 79th St. Chicago,22,41.752,-87.553
+2400 S. California Ave.,,South Lawndale,Male,Gunshot,http://mobile.chicagotribune.com/inf/infomo?view=breakingnews_article&feed:a=chi_trib_1min&feed:c=latest_breaking_news&feed:i=95E8A3444177547EA90EF77D34AD4942,2400 S. California Ave. Chicago,28,41.848,-87.695
+200 W. 111th St.,Street,Roseland,Male,Trauma,http://www.chicagobreakingnews.com/2009/09/boy-16-found-slain-on-far-south-side.html,200 W. 111th St. Chicago,16,41.693,-87.628
+700 N. Cicero Ave.,Street,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-dies-after-being-shot-in-south-austin.html,700 N. Cicero Ave. Chicago,20,41.893,-87.746
+3700 W. Polk St.,Sidewalk,East Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/authorities-respond-to-west-side-shooting.html,3700 W. Polk St. Chicago,19,41.871,-87.718
+3700 W. Polk St.,Sidewalk,East Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/authorities-respond-to-west-side-shooting.html,3700 W. Polk St. Chicago,17,41.871,-87.718
+4000 W. Arthington St.,Street,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/unidentified-person-found-slain-on-west-side-street.html,4000 W. Arthington St. Chicago,29,41.870,-87.725
+5200 S. Carpenter St.,Sidewalk,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-dies-from-injuries-in-weekend-shooting.html,5200 S. Carpenter St. Chicago,22,41.800,-87.652
+4300 S. Francisco Ave.,Street,Brighton Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/brighton-park-shooting-francisco-chicago-police-robert-velazco-murder-charges.html,4300 S. Francisco Ave. Chicago,19,41.815,-87.697
+3800 S. St. Louis Ave.,Street,Brighton Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-shot-multiple-times-in-south-lawndale.html,3800 S. St. Louis Ave. Chicago,19,41.824,-87.712
+6000 S. Michigan Ave.,Apartment,Washington Park,Male,Stabbing,http://www.chicagobreakingnews.com/2009/09/cops-teen-stabbed-mothers-boyfriend.html,6000 S. Michigan Ave. Chicago,43,41.786,-87.622
+3900 W. 25th St.,Sidewalk,South Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/charges-filed-in-little-village-homicide.html,3900 W. 25th St. Chicago,19,41.846,-87.722
+3900 W. Roosevelt Rd.,Gas station,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/man-killed-in-lawndale-shooting.html,3900 W. Roosevelt Rd. Chicago,33,41.866,-87.723
+4900 W. Hubbard St.,Sidewalk,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/09/south-austin-man-fatally-shot-while-sitting-on-porch.html,4900 W. Hubbard St. Chicago,21,41.889,-87.748
+1300 E. 93rd St.,Alley,Burnside,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-in-critical-condition-after-being-shot-on-south-side.html,1300 E. 93rd St. Chicago,28,41.726,-87.592
+00 S. Keeler Ave.,Sidewalk,West Garfield Pk,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-dead-after-fatal-shot-in-head-in-garfield-park.html,00 S. Keeler Ave. Chicago,24,41.881,-87.731
+3000 S. Damen Ave.,Street,Lower West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-shot-in-eye-on-west-side-dies.html,3000 S. Damen Ave. Chicago,22,41.840,-87.670
+4300 W. Gladys Ave.,Street,West Garfield Pk,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-found-shot-killed-in-west-garfield-park.html,4300 W. Gladys Ave. Chicago,26,41.876,-87.733
+3100 S. Kedzie Ave.,Abandoned building,South Lawndale,Male,Trauma,http://www.chicagobreakingnews.com/2009/10/south-kedzie-avenue-ventura-colin-beating-cook-county-medical-examiner-chicago.html,3100 S. Kedzie Ave. Chicago,48,41.837,-87.705
+1300 W. Washburne Ave.,Street,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/gunshot-victim-found-on-near-west-side.html,1300 W. Washburne Ave. Chicago,23,41.866,-87.655
+2300 W. Montrose Ave.,Other,North Center,Male,Assault,http://www.chicagobreakingnews.com/2009/10/owner-severely-injured-outside-lincoln-square-bar.html,2300 W. Montrose Ave. Chicago,69,41.961,-87.686
+9200 S. Burnside Ave.,,Roseland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/fatal-shooting-in-burnside-possibly-drive-by-attack.html,9200 S. Burnside Ave. Chicago,23,41.727,-87.614
+2500 W. Glenlake Ave.,Street,West Ridge,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-found-slain-in-vehicle-in-west-rogers-park.html,2500 W. Glenlake Ave. Chicago,50,41.992,-87.692
+3300 W. Madison St.,Sidewalk,East Garfield Pk,Female,Gunshot,http://www.chicagobreakingnews.com/2009/10/family-stands-overnight-vigil-at-site-where-woman-slain.html,3300 W. Madison St. Chicago,20,41.881,-87.709
+100 N. Lavergne Ave.,Street,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-fatally-shot-in-south-austin-neighborhood.html,100 N. Lavergne Ave. Chicago,21,41.882,-87.750
+700 N. Harding Ave.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-killed-in-east-garfield-park-shooting.html,700 N. Harding Ave. Chicago,22,41.894,-87.725
+9200 S. Woodlawn Ave.,,Burnside,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-shot-dead-on-south-side-street.html,9200 S. Woodlawn Ave. Chicago,23,41.728,-87.595
+1400 N. Washtenaw Ave.,Alley,West Town,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/killer-sought-in-humboldt-park-shooting.html,1400 N. Washtenaw Ave. Chicago,21,41.907,-87.694
+8100 S. Manistee Ave.,Sidewalk,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-23-dies-after-being-found-shot-on-southeast-side.html,8100 S. Manistee Ave. Chicago,23,41.748,-87.558
+2000 N. Milwaukee Ave.,Bar or tavern,Logan Square,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/4-charged-in-fight-outside-club-where-teen-was-slain.html,2000 N. Milwaukee Ave. Chicago,17,41.918,-87.689
+5600 S. Ashland Ave.,Vehicle,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-shot-dead-on-south-side-3.html,5600 S. Ashland Ave. Chicago,40,41.792,-87.665
+8000 S. South Shore Dr.,Residential yard,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-dies-in-south-shore-shooting.html,8000 S. South Shore Dr. Chicago,21,41.750,-87.548
+1100 W. 47th St.,Other,New City,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/teen-found-shot-killed-in-back-of-the-yards.html,1100 W. 47th St. Chicago,17,41.809,-87.653
+1500 W. 87th St.,Alley,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-shot-dead-in-gresham.html,1500 W. 87th St. Chicago,40,41.736,-87.661
+10500 S. Peoria St.,Vehicle,Washington Heights,Male,Gunshot,http://mobile.chicagotribune.com/inf/infomo?view=breakingnews_article&feed:a=chi_trib_1min&feed:c=latest_breaking_news&feed:i=5583EEE5CAE38B2C70483B68DC0D4B6F,10500 S. Peoria St. Chicago,17,41.703,-87.646
+6300 S. Rockwell St.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-found-dead-on-street-in-marquette-park.html,6300 S. Rockwell St. Chicago,$null$,41.779,-87.689
+4900 S. Langley Ave.,Sidewalk,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-killed-by-gunfire-in-bronzeville.html,4900 S. Langley Ave. Chicago,44,41.806,-87.609
+3900 W. Grenshaw St.,Vehicle,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-found-shot-to-death-in-lawndale.html,3900 W. Grenshaw St. Chicago,26,41.867,-87.723
+5900 W. Walton St.,Vehicle,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/man-fatally-shot-while-sitting-in-car-in-south-austin.html,5900 W. Walton St. Chicago,23,41.898,-87.773
+5000 S. St. Lawrence Ave.,,Grand Blvd.,Male,Stabbing,http://www.chicagobreakingnews.com/2009/10/woman-charged-in-bronzeville-stabbing.html,5000 S. St. Lawrence Ave. Chicago,25,41.804,-87.611
+6700 S. Damen Ave.,,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/west-englewood-shooting-67th-street-damen-17-year-old-chicago-police.html,6700 S. Damen Ave. Chicago,17,41.772,-87.674
+2200 N. Tripp Ave.,Vehicle,Hermosa,Female,Gunshot,http://www.chicagobreakingnews.com/2009/10/body-of-woman-found-in-trunk-of-car-in-hermosa.html,2200 N. Tripp Ave. Chicago,22,41.921,-87.733
+1500 W. 69th St.,Sidewalk,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/69th-ashland-shooting-englewood.html,1500 W. 69th St. Chicago,19,41.769,-87.662
+1500 W. 69th St.,Sidewalk,West Englewood,Female,Gunshot,http://www.chicagobreakingnews.com/2009/10/69th-ashland-shooting-englewood.html,1500 W. 69th St. Chicago,46,41.769,-87.662
+4200 S. Prairie Ave.,Apartment,Grand Blvd.,Male,Gunshot,http://www.myfoxchicago.com/dpp/news/crime/south_side_drive-by_leaves_18_year_old_dead,4200 S. Prairie Ave. Chicago,18,41.818,-87.620
+900 E. 100th St.,Residence,Pullman,Female,Stabbing,http://www.chicagobreakingnews.com/2009/10/man-charged-with-killing-sister-in-far-south-side-home.html,900 E. 100th St. Chicago,47,41.713,-87.602
+7300 S. Carpenter Ave.,Alley,Englewood,Female,Assault,http://www.chicagobreakingnews.com/2009/10/autopsy-woman-found-in-trash-bin-was-slain.html,7300 S. Carpenter Ave. Chicago,32,41.761,-87.651
+4900 W. Iowa St.,Porch/hallway,Austin,Female,Assault,http://www.chicagobreakingnews.com/2009/11/teen-mom-was-beaten-to-death-autopsy-shows.html,4900 W. Iowa St. Chicago,16,41.897,-87.748
+1700 E. 84th Pl.,Apartment,Avalon Park,Female,Trauma,http://www.chicagobreakingnews.com/2009/10/officials-to-probe-death-of-baby-girl.html,1700 E. 84th Pl. Chicago,$null$,41.742,-87.583
+4200 W. Cermak Rd.,Street,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/10/1-killed-1-wounded-in-lawndale-shooting.html,4200 W. Cermak Rd. Chicago,24,41.852,-87.730
+1700 N. Rockwell St.,Porch/hallway,West Town,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/2-shot-injured-in-logan-square.html,1700 N. Rockwell St. Chicago,21,41.912,-87.692
+6800 S. Aberdeen St.,Sidewalk,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-dies-after-being-shot-multiple-times-on-south-side.html,6800 S. Aberdeen St. Chicago,29,41.770,-87.652
+4200 W. Division St.,Sidewalk,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-dies-in-shooting-on-west-side-street.html,4200 W. Division St. Chicago,39,41.903,-87.731
+5300 W. Division St.,Small retail store,Austin,Female,Gunshot,http://www.chicagobreakingnews.com/2009/11/woman-dies-after-being-shot-at-party-in-austin.html,5300 W. Division St. Chicago,24,41.902,-87.758
+2200 W. Warren Blvd.,Vehicle,Near West Side,Male,Gunshot,http://www.myfoxchicago.com/dpp/news/crime/violent-halloween-weekend,2200 W. Warren Blvd. Chicago,21,41.882,-87.682
+600 E. 79th St.,Parking lot/garage,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/charges-in-november-chatham-slaying.html,600 E. 79th St. Chicago,24,41.751,-87.610
+3800 W. Wilcox St.,Street,West Garfield Pk,Male,Gunshot,http://mobile.chicagotribune.com/inf/infomo?view=breakingnews_article&feed:a=chi_trib_1min&feed:c=latest_breaking_news&feed:i=7DD311036351A80227E07AED8117F954,3800 W. Wilcox St. Chicago,29,41.879,-87.721
+3600 W. Augusta Blvd.,Sidewalk,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-killed-in-humboldt-park-shooting.html,3600 W. Augusta Blvd. Chicago,37,41.899,-87.716
+100 N. Long Ave.,Street,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-fatally-shot-in-south-austin-neighborhood-1.html,100 N. Long Ave. Chicago,24,41.882,-87.760
+3300 N. Harding Ave.,Residence,Avondale,Male,Assault,http://www.chicagobreakingnews.com/2009/11/body-of-man-found-beaten-idd.html,3300 N. Harding Ave. Chicago,24,41.941,-87.726
+700 E. 43rd St.,Street,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-found-shot-to-death-in-car-on-south-side.html,700 E. 43rd St. Chicago,30,41.817,-87.609
+1500 S. Christiana Ave.,Street,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-shot-to-death-in-lawndale.html,1500 S. Christiana Ave. Chicago,16,41.861,-87.709
+3500 S. Lake Park Ave.,Sidewalk,Oakland,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-shot-to-death-on-south-side-1.html,3500 S. Lake Park Ave. Chicago,19,41.831,-87.608
+1900 S. Trumbull Ave.,Apartment,North Lawndale,Male,Stabbing,http://www.chicagobreakingnews.com/2009/11/woman-charged-in-stabbing-death-of-boyfriend.html,1900 S. Trumbull Ave. Chicago,41,41.856,-87.711
+1500 W. Webster Ave.,Street,Lincoln Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/chicago-man-charged-with-slaying-at-lincoln-park-nightclub.html,1500 W. Webster Ave. Chicago,29,41.922,-87.666
+2100 S. California Ave.,Apartment,South Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/chicago-police-21st-california-avenue-little-village-shooting.html,2100 S. California Ave. Chicago,36,41.854,-87.696
+2900 E. 87th St.,Street,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-shot-killed-in-south-chicago-neighborhood.html,2900 E. 87th St. Chicago,21,41.738,-87.554
+2000 W. 18th St.,,Lower West Side,Male,Abuse,http://www.chicagobreakingnews.com/2009/11/an-autopsy-performed-today-onthe.html,2000 W. 18th St. Chicago,$null$,41.858,-87.676
+500 W. 58th St.,Alley,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/rash-of-violence-spreads-throughout-city-overnight-after-stop-the-violence-day.html,500 W. 58th St. Chicago,20,41.789,-87.638
+8300 S. Vincennes Ave.,Street,Chatham,Male,Auto crash,http://www.chicagobreakingnews.com/2009/11/rash-of-violence-spreads-throughout-city-overnight-after-stop-the-violence-day.html,8300 S. Vincennes Ave. Chicago,34,41.744,-87.636
+900 N. Keeler Ave.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/west-humboldt-park-man-shot-and-killed.html,900 N. Keeler Ave. Chicago,19,41.897,-87.731
+500 W. 62nd St.,Residence,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/englewood-man-is-shot-and-killed.html,500 W. 62nd St. Chicago,21,41.782,-87.638
+3300 W. Huron St.,Vehicle,Humboldt Park,Male,Gunshot,http://www.myfoxchicago.com/dpp/news/crime/chicago-man-slain-west-side-shooting,3300 W. Huron St. Chicago,43,41.894,-87.709
+2900 E. 87th St.,,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/boy-16-shot-in-south-chicago-neighborhood.html,2900 E. 87th St. Chicago,17,41.738,-87.554
+7500 S. Marshfield Ave.,Street,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/van-hits-church-after-man-shot-in-head.html,7500 S. Marshfield Ave. Chicago,23,41.757,-87.665
+3400 W. Douglas Blvd.,Porch/hallway,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/west-side-man-charged-with-revenge-killing.html,3400 W. Douglas Blvd. Chicago,31,41.863,-87.711
+500 E. 44th St.,Porch/hallway,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/marquette-park-teen-dies-after-getting-shot-thanksgiving-eve.html,500 E. 44th St. Chicago,18,41.815,-87.614
+800 W. 59th St.,Gas station,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-shot-and-killed-at-englewood-gas-station.html,800 W. 59th St. Chicago,21,41.787,-87.645
+3400 W. Madison St.,Apartment,East Garfield Park,Female,Gunshot,http://www.chicagobreakingnews.com/2009/11/couples-1st-thanksgiving-ends-in-suspected-murder-suicide.html,3400 W. Madison St. Chicago,30,41.881,-87.711
+400 S. Central Ave.,Apartment,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-found-shot-at-austin-residence.html,400 S. Central Ave. Chicago,36,41.874,-87.765
+2700 W. Wilcox St.,Street,East Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/cops-man-killed-during-armed-robbery-on-west-side.html,2700 W. Wilcox St. Chicago,40,41.880,-87.694
+3500 W. 13th Pl.,Vehicle,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/man-shot-on-west-side-4.html,3500 W. 13th Pl. Chicago,29,41.864,-87.713
+1800 W. 80th St.,Street,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/11/dolton-man-shot-dead-on-south-side.html,1800 W. 80th St. Chicago,29,41.748,-87.668
+6400 S. Marshfield Ave.,Alley,West Englewood,Female,Strangling,http://www.chicagobreakingnews.com/2009/12/police-seek-new-leads-in-jahmeshia-conner-murder-case.html,6400 S. Marshfield Ave. Chicago,12,41.778,-87.666
+6700 S. Evans Ave.,Apartment,Woodlawn,Female,Stabbing,http://www.chicagobreakingnews.com/2009/12/infant-teen-mom-stabbed-in-woodlawn.html,6700 S. Evans Ave. Chicago,18,41.773,-87.607
+2700 W. Cermak Rd.,,South Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/west-side-man-dies-week-after-he-was-chased-down-shot.html,2700 W. Cermak Rd. Chicago,20,41.852,-87.693
+1400 N. Kildare Ave.,Sidewalk,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-killed-in-west-humboldt-park-neighborhood.html,1400 N. Kildare Ave. Chicago,20,41.906,-87.734
+100 W. 74th St.,Alley,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-found-fatally-shot-in-park-manor-neighborhood.html,100 W. 74th St. Chicago,$null$,41.760,-87.628
+400 W. Englewood Ave.,Residence,Englewood,Male,Arson,http://www.chicagobreakingnews.com/2009/12/englewood-fire-that-killed-texas-man-ruled-an-arson.html,400 W. Englewood Ave. Chicago,39,41.781,-87.635
+500 W. 75th St.,Street,Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-found-shot-in-west-chatham.html,500 W. 75th St. Chicago,24,41.758,-87.637
+4300 W. Ogden Ave.,Vehicle,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/north-lawndale-man-shot-dead-outside-home.html,4300 W. Ogden Ave. Chicago,36,41.849,-87.731
+5100 N. Central Park Ave.,,North Park,Female,Asphyxia,http://www.chicagobreakingnews.com/2009/12/body-chicago-river-north-branch-carmen-central-park-police-investigation-death.html,5100 N. Central Park Ave. Chicago,32,41.974,-87.719
+11300 S. Aberdeen St.,Apartment,Morgan Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/2-found-shot-killed-in-morgan-park-residence.html,11300 S. Aberdeen St. Chicago,26,41.688,-87.650
+11300 S. Aberdeen St.,Apartment,Morgan Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/2-found-shot-killed-in-morgan-park-residence.html,11300 S. Aberdeen St. Chicago,29,41.688,-87.650
+1600 W. 78th St.,Street,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/cops-2-killed-in-separate-gang-related-south-side-shootings.html,1600 W. 78th St. Chicago,32,41.752,-87.664
+8300 S. Rhodes Ave.,,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/cops-2-killed-in-separate-gang-related-south-side-shootings.html,8300 S. Rhodes Ave. Chicago,25,41.744,-87.612
+7800 S. Kingston Ave.,Street,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/boy-killed-and-man-injured-in-south-side-shooting.html,7800 S. Kingston Ave. Chicago,11,41.753,-87.563
+300 W. 51st Pl.,Residential yard,Fuller Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-dies-after-being-found-shot-in-backyard.html,300 W. 51st Pl. Chicago,28,41.801,-87.633
+4100 W. Lake St.,Sidewalk,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-shot-outside-club-dies-from-injuries.html,4100 W. Lake St. Chicago,22,41.886,-87.728
+5300 S. Marshfield Ave.,Apartment,New City,Female,Gunshot,http://www.chicagobreakingnews.com/2009/12/woman-found-shot-to-death-on-south-side.html,5300 S. Marshfield Ave. Chicago,40,41.798,-87.666
+3000 E. 79th St.,Street,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-stabbed-to-death-on-south-side-1.html,3000 E. 79th St. Chicago,24,41.752,-87.553
+3100 W. 45th St.,Street,Brighton Park,Male,Gunshot,http://mobile.chicagotribune.com/inf/infomo?view=breakingnews_article&feed:a=chi_trib_1min&feed:c=latest_breaking_news&feed:i=7792818B18F8CC8F100759FBF28D861E,3100 W. 45th St. Chicago,22,41.812,-87.702
+4400 W. Thomas St.,,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-found-pinned-between-van-and-fence-was-shot-to-death.html,4400 W. Thomas St. Chicago,36,41.901,-87.736
+3800 W. Diversey Ave.,Street,Avondale,Male,Auto crash,http://www.chicagobreakingnews.com/2009/12/bicyclist-struck-killed-by-car-on-northwest-side.html,3800 W. Diversey Ave. Chicago,32,41.932,-87.722
+5900 S. Wabash Ave.,Street,Washington Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-shot-dead-in-englewood-1.html,5900 S. Wabash Ave. Chicago,25,41.787,-87.624
+4300 S. Evans Ave.,,Grand Blvd.,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-dies-days-after-being-found-shot.html,4300 S. Evans Ave. Chicago,42,41.816,-87.608
+2900 W. Irving Park Rd.,Vehicle,Irving Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/cops-fatal-nw-side-shooting-appears-gang-related.html,2900 W. Irving Park Rd. Chicago,23,41.954,-87.701
+5500 S. Seeley Ave.,Abandoned building,West Englewood,Female,Strangling,http://www.myfoxchicago.com/dpp/news/metro/woman-apparently-strangled-back-of-yards,5500 S. Seeley Ave. Chicago,$null$,41.794,-87.676
+9300 S. May St.,Driveway,Washington Heights,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-shot-to-death-on-south-side-saturday-night.html,9300 S. May St. Chicago,20,41.725,-87.652
+1700 E. 71st Pl.,,South Shore,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/cops-investigate-shooting-death-of-17-year-old.html,1700 E. 71st Pl. Chicago,17,41.766,-87.582
+6800 S. Artesian Ave.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-dies-after-being-shot-multiple-times-in-englewood.html,6800 S. Artesian Ave. Chicago,22,41.770,-87.685
+6800 N. Wayne Ave.,Apartment,Rogers Park,Male,Stabbing,http://www.chicagobreakingnews.com/2009/12/an-18-year-old-man-was-killed.html,6800 N. Wayne Ave. Chicago,18,42.006,-87.665
+7000 N. Greenview Ave.,,Rogers Park,Female,Auto crash,http://www.chicagobreakingnews.com/2009/12/man-charged-in-hit-and-run-that-killed-mother-injured-son.html,7000 N. Greenview Ave. Chicago,49,42.009,-87.668
+4700 S. King Dr.,,Grand Blvd.,Female,Gunshot,http://www.chicagobreakingnews.com/2009/12/woman-found-shot-in-bronzeville-alley.html,4700 S. King Dr. Chicago,21,41.809,-87.617
+1700 N. Long Ave.,Apartment,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-fatally-shot-while-walking-near-west-side-home.html,1700 N. Long Ave. Chicago,29,41.911,-87.761
+7000 W. Grand Ave.,Apartment,Montclare,Male,Assault,http://cbs2chicago.com/local/Michael.Difilippis.reward.2.1391353.html,7000 W. Grand Ave. Chicago,29,41.924,-87.801
+800 E. 47th St.,Parking lot/garage,Kenwood,Male,Gunshot,http://www.chicagotribune.com/features/chi-ell20091225092813,800 E. 47th St. Chicago,79,41.810,-87.607
+8100 S. Evans Ave.,Vehicle,Chatham,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-found-shot-to-death-in-vehicle-in-woodlawn.html,8100 S. Evans Ave. Chicago,25,41.747,-87.607
+3800 W. Roosevelt Rd.,,North Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-found-shot-to-death-in-vehicle-in-woodlawn.html,3800 W. Roosevelt Rd. Chicago,23,41.867,-87.691
+3500 S. King Dr.,Apartment,Douglas,Male,Stabbing,http://www.chicagobreakingnews.com/2009/12/man-charged-in-fatal-stabbing.html,3500 S. King Dr. Chicago,32,41.831,-87.618
+300 W. 119th St.,Parking lot/garage,West Pullman,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/2-wounded-in-separate-far-south-side-shootings.html,300 W. 119th St. Chicago,16,41.678,-87.630
+1000 W. 14th St.,CHA hallway/stairwell,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/man-found-shot-in-west-side-hallway.html,1000 W. 14th St. Chicago,$null$,41.863,-87.651
+5100 N. St. Louis Ave.,Vehicle,North Park,Male,Gunshot,http://www.chicagobreakingnews.com/2009/12/mans-body-found-in-trunk-in-albany-park.html,5100 N. St. Louis Ave. Chicago,$null$,41.974,-87.716
+11000 S. Lowe Ave.,Residence,Roseland,Female,Stabbing,http://www.chicagobreakingnews.com/2010/01/cops-woman-61-dead-after-roseland-home-invasion.html,11000 S. Lowe Ave. Chicago,61,41.694,-87.639
+5700 S. Loomis Blvd.,Street,West Englewood,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/man-found-in-trunk-of-car-was-homicide-victim.html,5700 S. Loomis Blvd. Chicago,27,41.790,-87.660
+5900 S. Wolcott Ave.,Residence,West Englewood,Male,Assault,http://www.chicagobreakingnews.com/2010/01/west-englewood-man-dies-after-being-beaten.html,5900 S. Wolcott Ave. Chicago,49,41.787,-87.672
+7700 S. Champlain Ave.,,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/man-dies-after-south-side-double-shooting.html,7700 S. Champlain Ave. Chicago,21,41.755,-87.609
+2900 W. 61st St.,Sidewalk,Chicago Lawn,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/man-shot-on-south-side-6.html,2900 W. 61st St. Chicago,$null$,41.783,-87.696
+4400 W. Chicago Ave.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/1-dead-1-wounded-in-west-side-shooting.html,4400 W. Chicago Ave. Chicago,20,41.896,-87.736
+7600 S. Prairie Ave.,Residence,Greater Grand Crossing,Female,Gunshot,http://www.chicagobreakingnews.com/2010/01/man-woman-apparent-murder-suicide-victims-on-south-side.html,7600 S. Prairie Ave. Chicago,52,41.756,-87.619
+1600 S. California Ave.,Apartment,North Lawndale,Male,Stabbing,http://www.chicagobreakingnews.com/2010/01/woman-charged-in-stabbing-death-of-boyfriend-1.html,1600 S. California Ave. Chicago,30,41.859,-87.696
+5700 S. Rutherford Ave.,,Garfield Ridge,Female,Trauma,http://www.chicagobreakingnews.com/2010/02/murder-charges-filed-against-man-in-beating-of-wife.html,5700 S. Rutherford Ave. Chicago,30,41.788,-87.791
+200 W. 119th St.,Abandoned building,West Pullman,Female,Strangling,http://www.chicagobreakingnews.com/2010/01/autopsy-woman-found-in-vacant-building-was-strangled.html,200 W. 119th St. Chicago,$null$,41.678,-87.628
+8300 S. Buffalo Ave.,Vacant property,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/man-20-fatally-shot-on-southeast-side.html,8300 S. Buffalo Ave. Chicago,20,41.745,-87.545
+6700 N. Sheridan Rd.,Residence,Rogers Park,Male,Arson,http://www.chicagobreakingnews.com/2010/01/resident-charged-in-fatal-apartment-building-fire.html,6700 N. Sheridan Rd. Chicago,49,42.004,-87.661
+1300 W. 15th St.,Apartment,Near West Side,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/2-charged-in-fatal-weekend-shooting.html,1300 W. 15th St. Chicago,23,41.862,-87.659
+6000 S. King Dr.,Apartment,Washington Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/man-dies-after-south-side-shooting.html,6000 S. King Dr. Chicago,31,41.786,-87.616
+3300 W. 27th St.,Sidewalk,South Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/cops-asking-for-helping-in-finding-teens-killer.html,3300 W. 27th St. Chicago,16,41.843,-87.707
+2800 S. Kenneth Ave.,Porch/hallway,South Lawndale,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/1-man-dead-1-wounded-in-little-village-shooting.html,2800 S. Kenneth Ave. Chicago,20,41.840,-87.736
+400 N. St. Louis Ave.,Street,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/fatal-shooting-in-east-garfield-park-neighborhood.html,400 N. St. Louis Ave. Chicago,41,41.889,-87.714
+400 N. Central Ave.,,Austin,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/3-wounded-in-west-side-shooting.html,400 N. Central Ave. Chicago,17,41.888,-87.765
+900 N. Hamlin Ave.,Sidewalk,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/prosecutors-man-was-killed-in-dispute-over-drug-customer.html,900 N. Hamlin Ave. Chicago,20,41.897,-87.721
+8200 S. Chappel Ave.,Street,South Chicago,Male,Gunshot,http://www.chicagobreakingnews.com/2010/01/man-shot-seriously-injured-on-south-side.html,8200 S. Chappel Ave. Chicago,24,41.746,-87.575
+1100 N. Keystone Ave.,Residential yard,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/teen-chased-shot-dead-in-west-humboldt-park.html,1100 N. Keystone Ave. Chicago,17,41.901,-87.728
+8300 S. Hermitage Ave.,Vehicle,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/two-shot-one-fatally-on-south-side.html,8300 S. Hermitage Ave. Chicago,18,41.743,-87.667
+8500 S. Morgan St.,Vehicle,Auburn Gresham,Female,Gunshot,http://www.chicagobreakingnews.com/2010/02/police-investigate-double-slaying-in-gresham.html,8500 S. Morgan St. Chicago,44,41.740,-87.649
+8500 S. Morgan St.,Vehicle,Auburn Gresham,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/police-investigate-double-slaying-in-gresham.html,8500 S. Morgan St. Chicago,28,41.740,-87.649
+7100 S. Jeffery Blvd.,Currency Exchange,South Shore,Male,Stabbing,http://www.chicagobreakingnews.com/2010/02/teen-charged-in-fatal-south-shore-stabbing.html,7100 S. Jeffery Blvd. Chicago,24,41.766,-87.577
+5000 W. Fulton St.,Residence,Austin,Male,Strangling,http://www.chicagobreakingnews.com/2010/02/man-found-stabbed-to-death-on-west-side.html,5000 W. Fulton St. Chicago,52,41.886,-87.751
+3000 S. Christiana Ave.,Alley,South Lawndale,Male,Strangling,http://www.chicagobreakingnews.com/2010/02/murder-victim-found-in-little-village-alley-was-stickney-man.html,3000 S. Christiana Ave. Chicago,25,41.839,-87.709
+7900 S. Halsted St.,Street,Auburn Gresham,Male,Gunshot,http://www.wbbm780.com/pages/6389828.php?contentType=4&contentId=5605435,7900 S. Halsted St. Chicago,30,41.750,-87.645
+6100 S. King Dr.,Sidewalk,Washington Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/man-charged-with-fatal-woodlawn-shooting.html,6100 S. King Dr. Chicago,33,41.784,-87.616
+300 E. 131st Pl.,Porch/hallway,Riverdale,Male,Gunshot,http://www.southtownstar.com/news/2043246,300 E. 131st Pl. Chicago,24,41.656,-87.614
+11200 S. Hermosa Ave.,Street,Morgan Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/man-dies-after-getting-shot-on-far-south-side.html,11200 S. Hermosa Ave. Chicago,20,41.690,-87.668
+4300 W. Flournoy St.,Porch/hallway,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/man-shot-dead-on-west-side-1.html,4300 W. Flournoy St. Chicago,25,41.873,-87.733
+8200 S. Drexel Ave.,Porch/hallway,Chatham,Male,Stabbing,http://www.chicagobreakingnews.com/2010/02/1-dead-1-injured-in-stabbing-in-chatham.html,8200 S. Drexel Ave. Chicago,$null$,41.746,-87.603
+6100 N. Sheridan Rd.,Apartment,Edgewater,Female,Abuse,http://www.chicagobreakingnews.com/2010/02/woman-charged-with-murder-in-death-of-newborn-girl.html,6100 N. Sheridan Rd. Chicago,$null$,41.992,-87.655
+6000 W. Melrose St.,Residence,Portage Park,Male,Trauma,http://www.chicagobreakingnews.com/2010/02/man-charged-with-killing-girfriends-2-year-old-son.html,6000 W. Melrose St. Chicago,2,41.940,-87.776
+300 W. 75th St.,Sidewalk,Greater Grand Crossing,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/south-side-man-shot-dead.html,300 W. 75th St. Chicago,$null$,41.758,-87.632
+4300 W. Potomac Ave.,,Humboldt Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/3-people-shot-in-humboldt-park.html,4300 W. Potomac Ave. Chicago,16,41.905,-87.734
+6100 N. Hamilton Ave.,,West Ridge,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/man-dies-after-being-shot-in-west-rogers-park.html,6100 N. Hamilton Ave. Chicago,25,41.992,-87.684
+4100 W. West End Ave.,,West Garfield Park,Male,Gunshot,http://www.chicagobreakingnews.com/2010/02/teen-killed-in-west-side-shooting.html,4100 W. West End Ave. Chicago,15,41.883,-87.729
+600 E. 79th St.,,Greater Grand Crossing,Male,Stabbing,http://www.chicagobreakingnews.com/2010/02/man-found-fatally-stabbed-in-chatham.html,600 E. 79th St. Chicago,54,41.751,-87.610
+3000 S. Avers Ave.,,South Lawndale,Male,Stabbing,http://www.chicagobreakingnews.com/2010/03/man-found-dead-stabbed-on-sw-side.html,3000 S. Avers Ave. Chicago,$null$,41.839,-87.721
+8200 S. Kenwood Ave.,,Avalon Park,Male,Stabbing,http://www.chicagobreakingnews.com/2010/03/man-found-stabbed-to-death-in-south-side-home.html,8200 S. Kenwood Ave. Chicago,35,41.746,-87.592
