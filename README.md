@@ -1,8 +1,7 @@
-# Plot Spatial Data 
-###IBM SPSS Modeler Predictive Extensions 
+# Model for Random Forest 
+###IBM SPSS Modeler Predictive Extensions
 
-This IBM SPSS Modeler output node allows you to plot data containing latitude and longitude on an interactive map. You can use the same color for all points or use a legend column to specify a color code. This legend may be categorical or continuous. Several color palettes are available (sequential, divergent, qualitative or monochrome) covering all possible use of the node.
-
+Node for classification and regression based on a forest of trees using random inputs, utilizing conditional inference trees as base learners. Simply install the node, choose the target and predictors and specify additional settings. 
 
 <img align="center" src="https://github.com/IBMPredictiveAnalytics/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration8.PNG?raw=trueg" alt="map stream">
 ![Map](https://github.com/IBMPredictiveAnalytics/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration2.png?raw=true)
