@@ -9,6 +9,7 @@ This IBM SPSS Modeler output node allows you to plot data containing latitude an
 
 URL Examples
 URL Community
+
 ---
 
 License
