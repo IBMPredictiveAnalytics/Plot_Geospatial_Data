@@ -6,6 +6,9 @@ This IBM SPSS Modeler output node allows you to plot data containing latitude an
 
 <img align="center" src="https://github.com/IBMPredictiveAnalytics/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration8.PNG?raw=trueg" alt="map stream">
 ![Map](https://github.com/IBMPredictiveAnalytics/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration2.png?raw=true)
+
+URL Examples
+URL Community
 ---
 
 License
