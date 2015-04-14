@@ -6,7 +6,7 @@ Node for classification and regression based on a forest of trees using random i
 <img align="center" src="https://github.com/IBMPredictiveAnalytics/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration8.PNG?raw=trueg" alt="map stream">
 ![Map](https://github.com/IBMPredictiveAnalytics/Modeler_PlotGeospatialData/blob/master/Screenshots/Illustration2.png?raw=true)
 
-URL Examples
+View Demo: ([SPSS Maps Demo](http://armandruiz.com/SPSSmaps/crimeChicago1.html))
 URL Community
 
 ---
