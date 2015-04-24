@@ -30,7 +30,7 @@ Installation intructions
 R Packages used
 ----
 The R packages will be installed the first time the node is used as long as an Internet connection is available.
-- ['plotGoogleMaps'][4]
+- [plotGoogleMaps][4]
 - [RColorBrewer][11]
 
 ---
