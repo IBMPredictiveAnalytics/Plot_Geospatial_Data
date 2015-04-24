@@ -38,7 +38,7 @@ Documentation and samples
 ----
 - Find a PDF with the documentation of this extension in the [Documentation][5] directory
 - There is a sample available in the [example][6] directory
-- Video-tutorial[20]
+- [Video-tutorial][20]
 
 ---
 License
