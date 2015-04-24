@@ -1,4 +1,4 @@
-#Plot Spatial Data
+#Plot Geospatial Data
 ###IBM SPSS Modeler Predictive Extensions
 
 With this output node you can to plot data containing latitude and longitude on an interactive map. You can use the same color for all points or use a legend column to specify a color code. This legend may be categorical or continuous. Several color palettes are available (sequential, divergent, qualitative or monochrome) covering all possible use of the node.
