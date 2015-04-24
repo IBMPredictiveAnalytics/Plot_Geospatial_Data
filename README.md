@@ -1,11 +1,13 @@
-# Model for Random Forest 
+#Plot Spatial Data
 ###IBM SPSS Modeler Predictive Extensions
 
-Node for classification and regression based on a forest of trees using random inputs, utilizing conditional inference trees as base learners. Simply install the node, choose the target and predictors and specify additional settings. 
+With this output node you can to plot data containing latitude and longitude on an interactive map. You can use the same color for all points or use a legend column to specify a color code. This legend may be categorical or continuous. Several color palettes are available (sequential, divergent, qualitative or monochrome) covering all possible use of the node.
+More precisely, this node generates an HTML file which can be saved to a specific directory and/or opened in the default browser on execution. This html page is an interactive map, that is to say you can move, zoom in and out, etc. 
 
-<img align="center" src="https://github.com/IBMPredictiveAnalytics/Modeler_RandomForest/blob/master/Screenshot/Illustration3.png?raw=true" alt="map stream">
+![Map](https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/blob/master/Screenshot/kl96h.gif?raw=true)
 
-![Map](https://github.com/IBMPredictiveAnalytics/Modeler_RandomForest/blob/master/Screenshot/Illustration2.png?raw=true)
+Check some live demos here:
+- [Crime in Chicago by Gender][10]
 
 ---
 Requirements
@@ -21,14 +23,15 @@ More information here: [IBM Predictive Extensions][2]
 Installation intructions
 ----
 1. Download the extension: [Download][3] 
-2. Close IBM SPSS Modeler. Save the .cfe file in the CDB directory, located by default on Windows in *"C:\ProgramData\IBM\SPSS\Modeler\16\CDB"* or under your IBM SPSS Modeler installation directory.
+2. Close IBM SPSS Modeler. Save the .cfe file in the CDB directory, located by default on Windows in "C:\ProgramData\IBM\SPSS\Modeler\16\CDB" or under your IBM SPSS Modeler installation directory.
 3. Restart IBM SPSS Modeler, the node will now appear in the Model palette.
 
 ---
 R Packages used
 ----
 The R packages will be installed the first time the node is used as long as an Internet connection is available.
-- ['party'][4]
+- ['plotGoogleMaps'][4]
+- [RColorBrewer][11]
 
 ---
 Documentation and samples
@@ -51,7 +54,9 @@ Contributors
 
 [1]: http://www.apache.org/licenses/LICENSE-2.0.html
 [2]:https://developer.ibm.com/predictiveanalytics/downloads/#tab2
-[3]:https://github.com/IBMPredictiveAnalytics/ModelRandomForest/raw/master/Source%20code/randomforest.cfe
-[4]:http://cran.r-project.org/web/packages/party/
-[5]:https://github.com/IBMPredictiveAnalytics/ModelRandomForest/blob/master/Documentation/RandomForest-SPSSModelerExtension.pdf
-[6]:https://github.com/IBMPredictiveAnalytics/ModelRandomForest/tree/master/Example
+[3]:https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/raw/master/Source%20code/plotSpatialData.cfe
+[4]:http://cran.r-project.org/web/packages/plotGoogleMaps/index.html
+[5]:https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/blob/master/Documentation/PlotSpatialData-SPSSModelerExtension.pdf
+[6]:https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/tree/master/Example
+[10]:http://armandruiz.com/SPSSmaps/crimeChicago1.html
+[11]:http://cran.r-project.org/web/packages/RColorBrewer/index.html
