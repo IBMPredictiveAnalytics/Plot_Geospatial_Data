@@ -61,4 +61,4 @@ Contributors
 [6]:https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/tree/master/Example
 [10]:http://armandruiz.com/SPSSmaps/crimeChicago1.html
 [11]:http://cran.r-project.org/web/packages/RColorBrewer/index.html
-[20]https://www.youtube.com/watch?v=M__XUbiWf30
+[20]:https://www.youtube.com/watch?v=M__XUbiWf30
