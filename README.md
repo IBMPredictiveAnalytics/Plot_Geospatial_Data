@@ -2,7 +2,7 @@
 ###IBM SPSS Modeler Predictive Extensions
 
 With this output node you can to plot data containing latitude and longitude on an interactive map. You can use the same color for all points or use a legend column to specify a color code. This legend may be categorical or continuous. Several color palettes are available (sequential, divergent, qualitative or monochrome) covering all possible use of the node.
-More precisely, this node generates an HTML file which can be saved to a specific directory and/or opened in the default browser on execution. This html page is an interactive map, that is to say you can move, zoom in and out, etc. 
+More precisely, this node generates an HTML file which can be saved to a specific directory and/or opened in the default browser on execution. This html page is an interactive map, that is to say you can move, zoom in and out, etc.
 
 ![Map](https://github.com/IBMPredictiveAnalytics/PlotGeospatialData/blob/master/Screenshot/maps.gif?raw=true)
 
